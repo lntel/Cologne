@@ -1,0 +1,1239 @@
+GeForce RTX 2080 Ti	
+17360
+1319.99
+TITAN V CEO Edition	
+16988
+NA
+GeForce RTX 2080	
+15496
+699.99
+TITAN V	
+14976
+3596.42
+TITAN Xp COLLECTORS EDITION	
+14933
+NA
+NVIDIA TITAN Xp	
+14760
+1200.00*
+GeForce GTX 1080 Ti	
+14102
+729.99
+GeForce RTX 2070	
+13771
+499.99
+NVIDIA TITAN X	
+13490
+1200.00*
+Quadro P6000	
+13318
+4403.52
+Quadro GP100	
+12843
+NA
+GeForce GTX 1080	
+12328
+429.99
+Radeon RX Vega	
+12298
+419.99
+GeForce GTX 1070 Ti	
+12164
+399.99
+Quadro GV100	
+12104
+NA
+Radeon Pro Vega 56	
+11897
+NA
+Radeon RX Vega 64	
+11875
+429.99
+Radeon RX Vega 56	
+11416
+NA
+GeForce GTX 980 Ti	
+11348
+679.99
+Radeon Vega Frontier Edition	
+11275
+999.99*
+GeForce GTX 1070	
+11209
+369.99
+Quadro P4200 with Max-Q Design	
+10708
+NA
+GeForce GTX TITAN X	
+10667
+1999.99*
+Radeon Pro WX 9100	
+10551
+NA
+Quadro P5200	
+10546
+NA
+Quadro P5200 with Max-Q Design	
+10490
+NA
+Quadro P4200	
+10472
+NA
+Radeon Pro SSG	
+10452
+NA
+Radeon Pro Vega 64	
+10426
+NA
+Quadro P4000	
+10395
+799.00
+Radeon PRO WX 8200	
+10193
+999.00
+GeForce GTX 1080 with Max-Q Design	
+10186
+NA
+Quadro P5000	
+10096
+1745.00
+Quadro M6000 24GB	
+10014
+NA
+GeForce GTX 980	
+9603
+604.66
+Radeon Pro Duo	
+9447
+849.00
+Quadro M5500	
+9323
+NA
+Quadro M6000	
+9287
+2825.00
+Radeon R9 Fury	
+9151
+399.99*
+GeForce GTX 1070 with Max-Q Design	
+9129
+NA
+Quadro P4000 with Max-Q Design	
+9083
+NA
+GeForce GTX 1060	
+9011
+254.99
+GeForce GTX 1060 3GB	
+8931
+209.99
+GeForce GTX 780 Ti	
+8888
+749.99*
+GeForce GTX 1060 5GB	
+8642
+NA
+GeForce GTX TITAN Black	
+8609
+999.99*
+GeForce GTX 970	
+8599
+407.76*
+Radeon R9 390X	
+8543
+NA
+Quadro M5000	
+8481
+1498.00*
+Radeon R9 Fury + Fury X	
+8448
+399.99*
+Radeon RX 580	
+8433
+199.99
+Quadro P3200 with Max-Q Design	
+8370
+NA
+Radeon RX 480	
+8117
+299.99
+Radeon R9 390	
+8084
+NA
+GeForce GTX 780	
+7959
+740.99*
+GeForce GTX Titan	
+7930
+2054.59*
+Radeon Pro WX 7100	
+7926
+539.99
+Quadro P3200	
+7858
+NA
+GeForce GTX TITAN Z	
+7754
+1580.00*
+Radeon Pro 580	
+7753
+NA
+GeForce GTX 1060 with Max-Q Design	
+7741
+NA
+Radeon R9 295X2	
+7686
+1099.99*
+Quadro P2000	
+7627
+429.99
+Quadro K6000	
+7605
+843.00
+Radeon RX 470	
+7512
+89.99
+Radeon R9 290X / 390X	
+7415
+688.88
+Tesla M60	
+7233
+NA
+FirePro W9100	
+7189
+2749.99*
+Radeon R9 290 / 390	
+7121
+919.44*
+Radeon RX Vega M GH	
+6883
+NA
+Radeon RX 570	
+6740
+159.99
+Quadro M4000	
+6671
+745.75
+Radeon RX580	
+6494
+NA
+Radeon R9 380X	
+6190
+528.44*
+Radeon R9 380	
+6126
+264.99*
+Quadro K5200	
+6102
+525.00
+GeForce GTX 770	
+6077
+449.99*
+FirePro W8100	
+5985
+999.99*
+GeForce GTX 1050 Ti	
+5950
+169.99
+GRID M60-2Q	
+5904
+NA
+GeForce GTX 980M	
+5892
+NA
+Radeon R9 280X	
+5844
+NA
+GeForce GTX 960	
+5804
+229.99*
+Radeon R9 M395X	
+5757
+NA
+GeForce GTX 1050 Ti with Max-Q Design	
+5689
+NA
+GeForce GTX 680	
+5675
+579.99*
+FirePro W7100 Adapter	
+5647
+NA
+Quadro P3000	
+5619
+NA
+Radeon R9 285 / 380	
+5554
+446.44
+Radeon Pro WX 5100	
+5549
+349.99
+Radeon HD 7990	
+5547
+1126.99*
+Quadro M5000M	
+5488
+NA
+FirePro W9000	
+5394
+3443.99*
+Radeon R9 280	
+5389
+NA
+FirePro W7100	
+5383
+289.99
+GeForce GTX 690	
+5376
+999.00*
+GeForce GTX 670	
+5369
+474.99*
+Radeon HD 7970 / R9 280X	
+5248
+349.97
+GeForce GTX 950	
+5216
+194.44*
+FirePro S9000	
+5195
+NA
+Radeon RX Vega M GL	
+5168
+NA
+Radeon R9 M295X	
+5150
+NA
+GeForce GTX 760 Ti	
+5117
+297.50*
+GeForce GTX 580	
+5019
+289.88*
+Radeon R9 M395	
+5007
+NA
+Radeon HD 8990	
+5000
+NA
+EIZO Quadro MED-XN51LP	
+4947
+NA
+GeForce GTX 760	
+4938
+249.99*
+GRID M60-1Q	
+4873
+NA
+Radeon HD 7950 / R9 280	
+4765
+393.98
+FirePro W8000 Adapter	
+4752
+NA
+Radeon R9 370	
+4722
+NA
+Quadro P2000 with Max-Q Design	
+4702
+NA
+Radeon R9 270X	
+4686
+399.00
+GeForce GTX 660 Ti	
+4666
+321.99*
+Radeon R7 370	
+4651
+NA
+FirePro W7170M	
+4643
+NA
+GeForce GTX 1050	
+4612
+124.99
+Quadro M4000M	
+4568
+NA
+FirePro W8000	
+4532
+1048.99*
+Quadro P1000	
+4486
+319.99
+Quadro K4200	
+4469
+446.99*
+Quadro M3000M	
+4464
+NA
+Radeon HD 7870 XT	
+4462
+NA
+GRID P6-4Q	
+4429
+NA
+GeForce GTX 570	
+4417
+99.99*
+Radeon RX 560	
+4398
+114.99
+GRID K520	
+4384
+NA
+Radeon HD 7870	
+4371
+489.99
+GeForce GTX 480	
+4360
+71.99*
+Radeon R9 M390X	
+4357
+NA
+GeForce GTX 680MX	
+4354
+NA
+Radeon RX 460	
+4337
+179.50
+Barco MXRT 7500	
+4319
+NA
+Quadro M2000	
+4300
+409.99
+FirePro W7000	
+4295
+569.99*
+GeForce GTX 1050 with Max-Q Design	
+4264
+NA
+Radeon R9 270 / R7 370	
+4262
+147.63
+GeForce GTX 590	
+4210
+184.00*
+GeForce GTX 775M	
+4181
+NA
+FirePro S7000	
+4166
+NA
+GeForce GTX 660	
+4127
+349.99*
+GeForce GTX 970M	
+4104
+1899.00*
+FirePro W7000 Adapter	
+4064
+NA
+Quadro K5000	
+4015
+313.04
+GeForce GTX 780M	
+4003
+NA
+Radeon R9 M290X	
+4001
+NA
+Radeon Pro WX4100	
+3949
+NA
+Radeon Pro WX 4100	
+3932
+259.99
+GRID M60-8Q	
+3884
+NA
+Radeon HD 8970M	
+3876
+NA
+Radeon RX480	
+3858
+NA
+Radeon HD 7850	
+3840
+449.59
+Radeon HD 7970M	
+3801
+NA
+GRID K2	
+3773
+1177.00
+GeForce GTX 750 Ti	
+3736
+299.01*
+GeForce GTX 880M	
+3663
+NA
+GeForce GTX 470	
+3602
+522.01*
+Radeon R9 M470X	
+3597
+NA
+Quadro K2200	
+3569
+343.99
+Radeon Pro 560	
+3553
+NA
+Device	
+3545
+NA
+GeForce GTX 650 Ti BOOST	
+3536
+NA
+GeForce GTX 560 Ti	
+3533
+138.00*
+Quadro 6000	
+3519
+337.57
+Radeon HD 6970	
+3516
+94.99*
+Radeon RX460	
+3502
+NA
+Quadro P620	
+3485
+173.99
+Tesla C2050	
+3465
+NA
+Radeon Pro 460	
+3453
+NA
+Quadro M2200	
+3451
+NA
+Radeon RX 550	
+3442
+89.99
+Tesla C2050 / C2070	
+3428
+NA
+Radeon Pro WX 3100	
+3415
+NA
+Tesla C2075	
+3364
+2269.99*
+GeForce GTX 680M	
+3351
+499.99*
+Radeon RX550	
+3313
+NA
+Radeon R7 360	
+3307
+146.65*
+GeForce GTX 750	
+3303
+150.99*
+GRID M60-4Q	
+3291
+NA
+Radeon Pro WX 4150	
+3231
+NA
+Radeon HD 6950	
+3212
+89.99*
+GeForce GTX 965M	
+3179
+NA
+Radeon R7 260X	
+3163
+239.00*
+FirePro V7000 Adapter	
+3162
+NA
+Radeon Pro 555	
+3141
+NA
+Radeon HD8970M	
+3131
+NA
+GeForce GTX 560	
+3120
+353.59*
+Quadro K5100M	
+3120
+309.99*
+Tesla C2070	
+3098
+NA
+Radeon R9 M380	
+3085
+NA
+FirePro W5000	
+3072
+434.00*
+Radeon HD 7790	
+3071
+134.99*
+Radeon HD 8950	
+3041
+NA
+Radeon R9 360	
+3039
+519.00*
+Quadro P600	
+3030
+169.99
+Quadro K1200	
+3023
+289.99
+Radeon R9 260	
+3018
+NA
+Radeon Pro WX4150	
+3010
+NA
+FirePro W5100	
+3002
+279.13*
+Quadro M1200	
+2958
+NA
+GeForce GTX 465	
+2950
+263.28*
+FirePro M6100	
+2941
+NA
+GRID K260Q	
+2941
+NA
+FirePro W4300	
+2894
+239.99*
+Radeon R7 260	
+2892
+89.99*
+Quadro K4000	
+2882
+189.99
+Radeon HD 6990	
+2859
+159.99*
+Quadro 5000	
+2839
+135.08
+FirePro 3D V9800	
+2812
+2499.00*
+Quadro M2000M	
+2811
+NA
+Quadro M620	
+2803
+NA
+Radeon RX540	
+2788
+NA
+Radeon Pro WX 4130	
+2768
+NA
+FirePro V9800 Adapter	
+2731
+NA
+Radeon Pro 450	
+2723
+NA
+FirePro V7900	
+2718
+119.99*
+GeForce GTX 650 Ti	
+2660
+169.99*
+GeForce GTX 460	
+2655
+89.99*
+GeForce GTX 770M	
+2648
+177.99*
+Radeon HD 5870	
+2619
+99.99*
+Radeon HD 6870	
+2611
+89.99*
+Radeon HD 5970	
+2593
+329.99*
+Quadro K5000M	
+2593
+391.00*
+Quadro K2200M	
+2572
+NA
+Quadro K4100M	
+2557
+379.99*
+GeForce GTX 460 v2	
+2497
+199.99*
+FirePro 3D V8800	
+2474
+424.99*
+Radeon R9 M470	
+2435
+NA
+GeForce GTX 675MX	
+2403
+NA
+GeForce GTX 870M	
+2397
+NA
+GeForce GTX 485M	
+2383
+NA
+GeForce GTX 960A	
+2359
+NA
+Quadro K620	
+2324
+181.50
+GRID K280Q	
+2323
+NA
+GeForce GTX 580M	
+2315
+NA
+Quadro M1000M	
+2297
+200.89*
+Radeon RX Vega 11	
+2291
+NA
+Radeon HD 6850	
+2285
+99.99*
+Radeon HD 5850	
+2279
+79.99*
+Radeon R7 250X	
+2269
+260.70
+Quadro K4000M	
+2265
+NA
+GeForce GTX 460 SE	
+2250
+159.99*
+GeForce GTX 960M	
+2247
+NA
+Radeon R9 350	
+2241
+64.95
+GeForce GT 1030	
+2222
+66.99
+Radeon HD 7770	
+2217
+315.59
+GeForce GT 645	
+2215
+NA
+Radeon R7 450	
+2202
+88.00
+Firepro W5170M	
+2198
+NA
+GeForce GTX 560 SE	
+2193
+89.99*
+RadeonT R7 450	
+2185
+NA
+GeForce GTX 745	
+2181
+NA
+GeForce GTX 555	
+2176
+NA
+Radeon TM R9 A360	
+2148
+NA
+GRID K240Q	
+2144
+NA
+GeForce GTX 675M	
+2142
+NA
+GeForce MX150	
+2131
+NA
+Radeon Pro WX 2100	
+2117
+NA
+FirePro M5100	
+2097
+NA
+Radeon R9 M375X	
+2096
+NA
+Intel Iris Pro P580	
+2081
+NA
+GeForce GTX 670MX	
+2066
+NA
+Radeon R7 M465X	
+2057
+NA
+Radeon HD 5830	
+2050
+159.99*
+Radeon HD 6790	
+2045
+64.99*
+GeForce GTX 480M	
+2040
+NA
+Quadro 5000M	
+2039
+NA
+Quadro 4000	
+2035
+134.40
+GeForce GTX 570M	
+2024
+NA
+MxGPU	
+2022
+NA
+Intel Iris Plus 655	
+2018
+NA
+Quadro K3100M	
+2016
+1999.00*
+Radeon R9 M360	
+1997
+NA
+Embedded Radeon E9173	
+1996
+NA
+Radeon R7 + R7 350 Dual	
+1982
+NA
+Radeon R7 + HD 7700 Dual	
+1962
+NA
+Radeon HD 7660D + HD 7700 Dual	
+1958
+NA
+Matrox C680 PCIe x16	
+1952
+NA
+GeForce GTX 470M	
+1950
+NA
+Radeon HD 6900M	
+1948
+NA
+GeForce GTX 670M	
+1934
+NA
+GeForce GTX 645	
+1929
+NA
+Radeon R9 M370X	
+1927
+NA
+GeForce GTX 550 Ti	
+1926
+287.59*
+Radeon Vega 8	
+1888
+NA
+GeForce MX130	
+1888
+NA
+Quadro M600M	
+1888
+NA
+GeForce GTX 860M	
+1886
+NA
+GeForce GTX 765M	
+1883
+NA
+Intel Iris Pro 580	
+1853
+NA
+GeForce GTX 950M	
+1838
+NA
+Radeon HD 8570D + HD 7700 Dual	
+1835
+NA
+GeForce GTX 650	
+1833
+144.81*
+Quadro 5010M	
+1825
+235.95*
+Matrox C900 PCIe x16	
+1812
+NA
+Radeon R7 FX-9830P RADEON	
+1810
+NA
+FirePro 3D V7800	
+1810
+599.99*
+Quadro 4000M	
+1808
+111.99*
+Radeon HD 8870M / R9 M270X / M370X	
+1800
+NA
+Radeon HD 8670D + 7700 Dual	
+1789
+NA
+Radeon R9 255	
+1773
+347.07
+Quadro K3000M	
+1771
+155.00*
+FirePro W4100 Adapter	
+1741
+NA
+FirePro W600	
+1735
+329.99
+FirePro M6000 Mobility Pro	
+1734
+NA
+Quadro P400	
+1728
+116.42
+Quadro K2000	
+1718
+164.99
+Radeon HD 5770	
+1708
+115.99*
+Radeon HD 7750	
+1703
+149.99
+Radeon Vega 6	
+1691
+NA
+FirePro M4000 Mobility Pro	
+1683
+NA
+Radeon HD 6770	
+1681
+76.99*
+Quadro K2000D	
+1678
+469.99
+Radeon Vega 8 Mobile	
+1661
+NA
+Quadro P500	
+1649
+NA
+15DD	
+1649
+NA
+Radeon Vega 10 Mobile	
+1648
+NA
+Radeon HD 8870M	
+1638
+NA
+Radeon 540	
+1619
+NA
+GeForce GTX 950A	
+1618
+NA
+Ryzen 7 2700U with Radeon Vega	
+1617
+NA
+FirePro W4100	
+1611
+159.99*
+Intel Iris 550	
+1609
+NA
+FirePro M4000	
+1602
+NA
+GeForce GT 755M	
+1588
+NA
+GeForce GTX 850M	
+1586
+NA
+FirePro W5130M	
+1584
+NA
+Radeon E8860	
+1577
+NA
+GeForce GT 740	
+1573
+94.99*
+Intel Iris Plus 650	
+1559
+NA
+GeForce GTS 450	
+1558
+64.99*
+GeForce GTX 560M	
+1549
+NA
+Radeon HD 8470D + HD 7500 Dual	
+1545
+NA
+Radeon HD 4890	
+1539
+109.99*
+GeForce MX110	
+1536
+NA
+Intel Iris Pro Graphics 6200	
+1535
+NA
+Quadro M520	
+1530
+NA
+FirePro V5900	
+1527
+319.99*
+Ryzen 5 2500U with Radeon Vega	
+1503
+NA
+Radeon R9 M275X / M375	
+1501
+NA
+Radeon HD 7660D + HD 6670 Dual	
+1485
+NA
+Radeon HD 7870M	
+1478
+NA
+FirePro 3D V5800	
+1466
+369.99*
+Radeon R5 A10-9630P RADEON R5 10 COMPUTE CORES 4C	
+1463
+NA
+Quadro 3000M	
+1461
+84.99*
+Radeon HD 5750	
+1442
+69.41*
+GeForce GTX 660M	
+1436
+NA
+GeForce 945M	
+1434
+NA
+Radeon HD 7730	
+1430
+49.99*
+Radeon HD 7560D + 7670 Dual	
+1426
+NA
+GeForce GTX 760M	
+1424
+NA
+Radeon R9 M270X	
+1418
+NA
+Radeon R7 430	
+1411
+NA
+Radeon R7 M370	
+1411
+NA
+Radeon R7 250	
+1402
+78.34
+Intel Iris Plus 640	
+1397
+NA
+GeForce GTX 460M	
+1394
+NA
+Radeon HD 4870	
+1382
+59.99*
+Radeon R7 PRO A12-8870	
+1376
+NA
+Radeon HD 7850M	
+1373
+NA
+Radeon R7 PRO A10-9700	
+1368
+NA
+FirePro M40003	
+1364
+NA
+Radeon HD 8670D + 6670 Dual	
+1361
+NA
+Radeon R7 PRO A12-9800	
+1347
+NA
+Radeon HD 7560D + HD 7700 Dual	
+1347
+NA
+Intel Iris 540	
+1345
+NA
+FireStream 9270	
+1341
+NA
+FirePro W4170M	
+1333
+NA
+GeForce 940MX	
+1330
+NA
+Quadro K2100M	
+1323
+159.99*
+Radeon R7 PRO A10-8770	
+1320
+NA
+Radeon HD 6750	
+1319
+49.99*
+Quadro 2000	
+1315
+90.99
+FirePro M5950	
+1314
+NA
+Radeon HD 4870 X2	
+1310
+NA
+Radeon R7 M465	
+1306
+NA
+FirePro V4900	
+1303
+144.99*
+Radeon HD 8790M	
+1297
+NA
+GeForce GT 545	
+1296
+55.59*
+GeForce GT 750M	
+1293
+NA
+Radeon R7 + R7 200 Dual	
+1289
+NA
+Intel UHD 620	
+1284
+NA
+GeForce GTX 760A	
+1281
+NA
+Radeon R7 A370	
+1281
+NA
+Firepro W4190M	
+1281
+NA
+GeForce GT 640	
+1281
+59.99*
+Quadro 2000D	
+1280
+209.00*
+GeForce GTX 285	
+1272
+179.99*
+Radeon R9 M265X	
+1272
+NA
+FirePro 3D V8750	
+1272
+1230.99*
+Intel HD P630	
+1264
+NA
+Radeon HD 8570D + HD 6670 Dual	
+1261
+NA
+Radeon R9 M375	
+1251
+NA
+Radeon R7 A12-9800 RADEON	
+1249
+NA
+GeForce GTX 275	
+1242
+119.99*
+Mobility Radeon HD 5870	
+1240
+NA
+Radeon HD 8570D + 6570 Dual	
+1239
+NA
+Radeon HD 7660D + 6670 Dual	
+1238
+NA
+Radeon HD 8790M / R9 M290X	
+1237
+NA
+GeForce GT 650M	
+1227
+NA
+Radeon HD 8670D + HD 6670 Dual	
+1222
+NA
+Radeon 530	
+1220
+NA
+GeForce 930A	
+1208
+NA
+FirePro V4800	
+1205
+NA
+Radeon R7 A10-9700 RADEON	
+1203
+NA
+GeForce GTX 280	
+1200
+522.78*
+Radeon R7 M350	
+1199
+NA
+FirePro 3D V8700	
+1198
+199.99*
+Radeon HD 7750M	
+1191
+NA
+GeForce 930MX	
+1189
+NA
+Radeon R7 A12-9800E RADEON	
+1186
+NA
+Quadro 2000 D	
+1182
+NA

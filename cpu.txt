@@ -1,0 +1,2076 @@
+Intel Xeon Platinum 8173M @ 2.00GHz	
+28860
+NA
+Intel Core i9-7980XE @ 2.60GHz	
+27761
+2049.99
+Intel Xeon Gold 6154 @ 3.00GHz	
+27722
+3745.00
+AMD Ryzen Threadripper 2950X	
+25904
+899.99
+Intel Core i9-7960X @ 2.80GHz	
+25675
+1809.00
+Intel Core i9-7940X @ 3.10GHz	
+25500
+1129.99
+Intel Xeon Gold 6138 @ 2.00GHz	
+25416
+2639.99
+Intel Xeon E5-2679 v4 @ 2.50GHz	
+25236
+2702.00*
+Intel Xeon Gold 6146 @ 3.20GHz	
+25142
+3611.23*
+Intel Xeon W-2195 @ 2.30GHz	
+24983
+2725.06*
+AMD Ryzen Threadripper 2990WX	
+24003
+1729.99
+Intel Xeon Gold 6140 @ 2.30GHz	
+23964
+2589.99*
+Intel Xeon Gold 6132 @ 2.60GHz	
+23907
+2232.81*
+Intel Core i9-7920X @ 2.90GHz	
+23258
+1025.77
+Intel Xeon E5-2699 v4 @ 2.20GHz	
+23200
+4909.95
+Intel Xeon E5-2696 v3 @ 2.30GHz	
+22548
+2498.00*
+Intel Xeon E5-2699 v3 @ 2.30GHz	
+22358
+4339.95
+AMD Ryzen Threadripper 1950X	
+22120
+660.99
+Intel Core i9-7900X @ 3.30GHz	
+21997
+929.99
+Intel Xeon E5-2697A v4 @ 2.60GHz	
+21875
+NA
+Intel Xeon E5-2698 v4 @ 2.20GHz	
+21836
+3226.00*
+Intel Xeon W-2155 @ 3.30GHz	
+21790
+1530.39*
+Intel Xeon E5-2697 v4 @ 2.30GHz	
+21525
+2805.00
+Intel Xeon W-2150B @ 3.00GHz	
+21522
+NA
+Intel Xeon E5-2673 v4 @ 2.30GHz	
+21450
+NA
+Intel Xeon E5-2697 v3 @ 2.60GHz	
+21365
+1186.42
+Intel Xeon E5-2696 v4 @ 2.20GHz	
+21331
+3009.95*
+Intel Xeon E5-2690 v4 @ 2.60GHz	
+21326
+2350.88*
+Intel Xeon E5-2698 v3 @ 2.30GHz	
+21133
+3424.02*
+Intel Xeon Gold 6136 @ 3.00GHz	
+21018
+2657.26
+Intel Xeon E5-2682 v4 @ 2.50GHz	
+20894
+NA
+Intel Core i9-9900K @ 3.60GHz	
+20364
+1009.99
+Intel Xeon E5-2695 v4 @ 2.10GHz	
+20258
+2573.17*
+Intel Xeon Gold 6130 @ 2.10GHz	
+20222
+1941.99
+Intel Xeon E5-2695 v3 @ 2.30GHz	
+20081
+2009.99*
+Intel Core i7-7900X @ 3.30GHz	
+20046
+NA
+Intel Core i7-6950X @ 3.00GHz	
+19977
+1572.00
+Intel Xeon E5-2687W v4 @ 3.00GHz	
+19933
+2307.31*
+Intel Xeon E5-2689 v4 @ 3.10GHz	
+19892
+NA
+Intel Xeon E5-2680 v4 @ 2.40GHz	
+19867
+1762.90*
+Intel Xeon Gold 6126 @ 2.60GHz	
+19711
+1951.41
+Intel Xeon W-2145 @ 3.70GHz	
+19679
+1294.94*
+Intel Xeon Gold 6144 @ 3.50GHz	
+19654
+2925.00*
+Intel Xeon E5-2690 v3 @ 2.60GHz	
+19295
+2215.86
+Intel Xeon E5-2686 v3 @ 2.00GHz	
+19255
+NA
+Intel Xeon E5-2683 v4 @ 2.10GHz	
+19047
+2102.50
+AMD EPYC 7501	
+18942
+4490.27
+Intel Xeon E5-2680 v3 @ 2.50GHz	
+18623
+2008.95
+AMD Ryzen Threadripper 1920X	
+18574
+419.95
+Intel Core i7-7820X @ 3.60GHz	
+18550
+499.99
+AMD EPYC 7401P	
+18546
+1446.83
+AMD EPYC 7551	
+18483
+3813.99
+Intel Xeon W-2140B @ 3.20GHz	
+18472
+NA
+Intel Xeon D-2183IT @ 2.20GHz	
+18252
+1764.00*
+Intel Xeon E5-1681 v3 @ 2.90GHz	
+18238
+NA
+Intel Xeon Gold 5120T @ 2.20GHz	
+18145
+1727.00*
+Intel Xeon Gold 6134 @ 3.20GHz	
+18083
+2159.00
+Intel Xeon E5-2687W v3 @ 3.10GHz	
+17720
+3009.95
+Intel Core i7-6900K @ 3.20GHz	
+17704
+1198.99
+Intel Core i7-9700K @ 3.60GHz	
+17696
+409.99
+Intel Xeon E5-2676 v3 @ 2.40GHz	
+17659
+NA
+Intel Xeon E5-2697 v2 @ 2.70GHz	
+17461
+2235.02
+Intel Xeon E5-2683 v3 @ 2.00GHz	
+17404
+1984.99*
+AMD Ryzen 7 PRO 2700X	
+17272
+NA
+Intel Xeon E5-1680 v4 @ 3.40GHz	
+17093
+NA
+Intel Xeon E5-2673 v3 @ 2.40GHz	
+17071
+700.00*
+Intel Xeon E5-2660 v4 @ 2.00GHz	
+17069
+1760.00*
+AMD Ryzen 7 2700X	
+16974
+309.99
+Intel Xeon E5-2678 v3 @ 2.50GHz	
+16905
+NA
+Intel Core i7-8086K @ 4.00GHz	
+16827
+552.96*
+Intel Xeon E5-2658 v4 @ 2.30GHz	
+16754
+NA
+Intel Xeon E5-1680 v3 @ 3.20GHz	
+16633
+NA
+Intel Xeon E5-2696 v2 @ 2.50GHz	
+16620
+NA
+Intel Xeon E5-2690 v2 @ 3.00GHz	
+16488
+409.00
+Intel Xeon E5-2687W v2 @ 3.40GHz	
+16487
+2104.47
+Intel Xeon E5-2667 v4 @ 3.20GHz	
+16447
+2209.90
+Intel Xeon W-2135 @ 3.70GHz	
+16384
+915.15*
+Intel Xeon E5-1680 v2 @ 3.00GHz	
+16345
+NA
+AMD Ryzen 7 PRO 2700	
+16341
+NA
+Intel Xeon E5-2670 v3 @ 2.30GHz	
+16331
+1572.00
+Intel Xeon E5-2673 v2 @ 3.30GHz	
+16320
+NA
+Intel Xeon Gold 5120 @ 2.20GHz	
+16308
+1561.00*
+Intel Xeon E-2146G @ 3.50GHz	
+16300
+311.00*
+Intel Xeon E5-2658 v3 @ 2.20GHz	
+16298
+NA
+Intel Xeon E5-1660 v4 @ 3.20GHz	
+16192
+1229.52
+Intel Xeon E5-2660 v3 @ 2.60GHz	
+16184
+1808.95*
+Intel Xeon E5-2667 v2 @ 3.30GHz	
+16178
+763.56
+Intel Xeon E5-2667 v3 @ 3.20GHz	
+16119
+2259.95*
+Intel Xeon E5-2692 v2 @ 2.20GHz	
+16018
+NA
+Intel Xeon Gold 5118 @ 2.30GHz	
+15985
+1348.00*
+Intel Core i7-8700K @ 3.70GHz	
+15967
+359.00
+Intel Core i7-5960X @ 3.00GHz	
+15950
+768.99
+Intel Xeon E5-4657L v2 @ 2.40GHz	
+15896
+3000.00*
+Intel Xeon E5-2650 v4 @ 2.20GHz	
+15860
+1279.07*
+AMD Ryzen Threadripper 1900X	
+15850
+316.38
+Intel Xeon E5-2695 v2 @ 2.40GHz	
+15847
+1779.95
+AMD EPYC 7351P	
+15820
+923.00
+Intel Xeon E5-2680 v2 @ 2.80GHz	
+15783
+401.11
+Intel Xeon E5-4660 v3 @ 2.10GHz	
+15556
+4800.00*
+Intel Xeon E5-4627 v4 @ 2.60GHz	
+15516
+2225.00*
+AMD Ryzen 7 1800X	
+15401
+249.99
+AMD Ryzen 7 PRO 1700X	
+15349
+NA
+Intel Xeon E5-2640 v4 @ 2.40GHz	
+15331
+940.15
+Intel Xeon Silver 4123 @ 3.00GHz	
+15185
+NA
+Intel Xeon E5-2675 v3 @ 1.80GHz	
+15156
+NA
+Intel Core i7-8700 @ 3.20GHz	
+15151
+439.98
+Intel Xeon Silver 4116 @ 2.10GHz	
+15088
+1121.16*
+AMD Ryzen 7 2700	
+15047
+269.99
+Intel Xeon Gold 6128 @ 3.40GHz	
+15022
+1842.27*
+Intel Xeon E5-2685 v3 @ 2.60GHz	
+15004
+NA
+Intel Xeon E5-2670 v2 @ 2.50GHz	
+14994
+489.00*
+Intel Xeon E5-2650 v3 @ 2.30GHz	
+14841
+2009.92
+AMD Ryzen 7 PRO 1700	
+14708
+NA
+Intel Xeon D-1567 @ 2.10GHz	
+14693
+NA
+AMD Ryzen 5 PRO 2600	
+14645
+NA
+AMD Ryzen 7 1700X	
+14640
+199.99
+Intel Xeon E5-2618L v4 @ 2.20GHz	
+14592
+779.00*
+Intel Xeon E5-1660 v3 @ 3.00GHz	
+14565
+1616.49*
+Intel Core i7-7800X @ 3.50GHz	
+14532
+378.99
+Intel Xeon E5-2649 v3 @ 2.30GHz	
+14506
+NA
+Intel Xeon Silver 4114 @ 2.20GHz	
+14493
+747.86
+Intel Core i9-8950HK @ 2.90GHz	
+14490
+583.00*
+Intel Xeon E-2176G @ 3.70GHz	
+14409
+362.00*
+Intel Xeon E5-2687W @ 3.10GHz	
+14381
+2636.50
+Intel Core i7-6850K @ 3.60GHz	
+14370
+549.99
+Intel Xeon E-2186M @ 2.90GHz	
+14346
+623.00*
+AMD Ryzen 5 2600X	
+14346
+209.99
+AMD Ryzen Threadripper 2990X	
+14324
+NA
+Intel Xeon E5-1650 v4 @ 3.60GHz	
+14226
+629.99*
+Intel Xeon E5-4627 v3 @ 2.60GHz	
+14221
+2400.00*
+Intel Xeon W-2133 @ 3.60GHz	
+14157
+617.00*
+Intel Xeon E5-2658 v2 @ 2.40GHz	
+14128
+NA
+Intel Xeon E5-2650L v4 @ 1.70GHz	
+14093
+1496.00*
+Intel Xeon E-2176M @ 2.70GHz	
+14055
+450.00*
+Intel Xeon E5-2663 v3 @ 2.80GHz	
+13994
+NA
+Intel Xeon E5-2640 v3 @ 2.60GHz	
+13978
+1777.20*
+Intel Xeon D-1587 @ 1.70GHz	
+13950
+NA
+Intel Xeon E5-2630 v4 @ 2.20GHz	
+13893
+709.95
+Intel Core i5-9600K @ 3.70GHz	
+13832
+279.99
+Intel Xeon D-2143IT @ 2.20GHz	
+13816
+566.00*
+Intel Xeon E5-2643 v3 @ 3.40GHz	
+13801
+766.15
+Intel Core i7-4960X @ 3.60GHz	
+13798
+769.99
+AMD Ryzen 7 1700	
+13749
+179.99
+Intel Xeon E5-2690 @ 2.90GHz	
+13722
+159.00
+Intel Xeon E5-1660 v2 @ 3.70GHz	
+13702
+1808.95*
+Intel Xeon E5-2648L v4 @ 1.80GHz	
+13654
+NA
+Intel Core i7-5930K @ 3.50GHz	
+13637
+497.99
+Intel Xeon E5-4669 v4 @ 2.20GHz	
+13626
+NA
+Intel Xeon E5-2643 v4 @ 3.40GHz	
+13618
+1638.36
+Intel Xeon E5-1650 v3 @ 3.50GHz	
+13615
+663.97
+Intel Core i7-6800K @ 3.40GHz	
+13591
+419.00
+AMD Ryzen 5 2600	
+13519
+159.99
+Intel Xeon E5-2650L v3 @ 1.80GHz	
+13513
+1010.00*
+Intel Xeon E5-2689 @ 2.60GHz	
+13476
+NA
+Intel Xeon E5-2660 v2 @ 2.20GHz	
+13433
+304.54
+Intel Core i7-8850H @ 2.60GHz	
+13400
+395.00*
+Intel Xeon E5-2628L v4 @ 1.90GHz	
+13268
+1364.00*
+AMD Ryzen 5 1600X	
+13227
+173.75
+Intel Xeon E5-2650 v2 @ 2.60GHz	
+13074
+325.71
+Intel Core i7-4930K @ 3.40GHz	
+13017
+397.99
+Intel Core i7-5820K @ 3.30GHz	
+12993
+407.99
+Intel Xeon E5-2630L v4 @ 1.80GHz	
+12847
+NA
+Intel Xeon E5-2470 v2 @ 2.40GHz	
+12836
+2250.00*
+Intel Xeon E5-2643 v2 @ 3.50GHz	
+12824
+2641.75*
+Intel Xeon E5-2630 v3 @ 2.40GHz	
+12803
+489.00
+Intel Core i5-8600K @ 3.60GHz	
+12788
+259.99
+Intel Xeon E5-1650 v2 @ 3.50GHz	
+12717
+644.95
+Intel Xeon E5-4640 v3 @ 1.90GHz	
+12703
+NA
+Intel Core i7-3970X @ 3.50GHz	
+12671
+953.99
+Intel Xeon E5-2680 @ 2.70GHz	
+12638
+111.84
+Intel Core i7-3960X @ 3.30GHz	
+12602
+799.99
+Intel Core i5-8600 @ 3.10GHz	
+12596
+244.47*
+Intel Core i7-8750H @ 2.20GHz	
+12492
+395.00*
+Intel Core i7-8700T @ 2.40GHz	
+12483
+409.00
+Intel Xeon W-2125 @ 4.00GHz	
+12389
+491.53
+Intel Xeon E5-1660 @ 3.30GHz	
+12369
+1226.66*
+Intel Xeon E5-4655 v3 @ 2.90GHz	
+12292
+4616.00*
+AMD Ryzen 5 1600	
+12265
+155.99
+Intel Core i7-7740X @ 4.30GHz	
+12248
+348.99
+AMD Ryzen 5 PRO 1600	
+12213
+NA
+Intel Xeon E5-2618L v3 @ 2.30GHz	
+12186
+NA
+Intel Xeon E5-2670 @ 2.60GHz	
+12157
+96.48
+Intel Xeon E5-4650 @ 2.70GHz	
+12117
+95.49*
+Intel Xeon E-2174G @ 3.80GHz	
+12108
+328.00*
+Intel Core i7-8559U @ 2.70GHz	
+12049
+NA
+Intel Core i7-7700K @ 4.20GHz	
+12042
+354.99
+Intel Core i7-3930K @ 3.20GHz	
+11994
+591.50
+Intel Xeon E5-2628L v3 @ 2.00GHz	
+11965
+NA
+Intel Xeon E3-1285 v6 @ 4.10GHz	
+11955
+450.00*
+Intel Xeon Silver 4110 @ 2.10GHz	
+11945
+542.99
+Intel Core i5-8500 @ 3.00GHz	
+11882
+239.00*
+Intel Xeon E5-4650L @ 2.60GHz	
+11821
+8684.50*
+Intel Xeon E5-1650 @ 3.20GHz	
+11745
+175.00
+Intel Core i5-8400 @ 2.80GHz	
+11680
+270.55
+Intel Xeon E5-2665 @ 2.40GHz	
+11601
+141.50*
+Intel Xeon E5-2648L v3 @ 1.80GHz	
+11392
+1360.26
+Intel Xeon E5-2620 v4 @ 2.10GHz	
+11372
+442.00
+Intel Xeon E3-1280 v6 @ 3.90GHz	
+11371
+567.00
+Intel Xeon E5-2651 v2 @ 1.80GHz	
+11275
+NA
+Intel Core i7-4790K @ 4.00GHz	
+11183
+306.99
+Intel Xeon E3-1270 v6 @ 3.80GHz	
+11135
+349.99
+Intel Core i7-6700K @ 4.00GHz	
+11111
+316.99
+Intel Xeon Gold 5122 @ 3.60GHz	
+11104
+1287.00
+Intel Xeon E3-1275 v6 @ 3.80GHz	
+11099
+367.97
+Intel Xeon E5-2660 @ 2.20GHz	
+11098
+102.00
+Intel Xeon E5-4648 v3 @ 1.70GHz	
+11097
+NA
+Intel Xeon D-1541 @ 2.10GHz	
+11056
+NA
+Intel Xeon E3-1285L v4 @ 3.40GHz	
+11048
+NA
+Intel Core i7-8809G @ 3.10GHz	
+11032
+NA
+Intel Xeon E5-2629 v3 @ 2.40GHz	
+11022
+NA
+Intel Core i7-5775C @ 3.30GHz	
+10997
+449.99
+Intel Core i7-5950HQ @ 2.90GHz	
+10932
+NA
+Intel Core i5-8600T @ 2.30GHz	
+10913
+373.99*
+Intel Core i7-5775R @ 3.30GHz	
+10863
+NA
+Intel Xeon Silver 4109T @ 2.00GHz	
+10854
+501.00*
+Intel Core i5-8259U @ 2.30GHz	
+10787
+NA
+Intel Core i7-7700 @ 3.60GHz	
+10754
+308.43
+Intel Xeon W-2123 @ 3.60GHz	
+10753
+352.35
+AMD Opteron 6386 SE	
+10748
+149.99
+Intel Xeon E3-1585 v5 @ 3.50GHz	
+10743
+NA
+Intel Xeon E3-1575M v5 @ 3.00GHz	
+10727
+NA
+Intel Xeon E3-1585L v5 @ 3.00GHz	
+10689
+445.00*
+AMD EPYC 7251 8-Core	
+10679
+529.99
+Intel Xeon E3-1280 v5 @ 3.70GHz	
+10666
+690.01*
+Intel Xeon E3-1285 v4 @ 3.50GHz	
+10641
+NA
+Intel Core i7-8706G @ 3.10GHz	
+10591
+NA
+Intel Xeon D-1540 @ 2.00GHz	
+10573
+NA
+Intel Xeon E3-1535M v6 @ 3.10GHz	
+10562
+NA
+Intel Xeon E3-1245 v6 @ 3.70GHz	
+10535
+309.99
+Intel Xeon E5-4640 @ 2.40GHz	
+10523
+2730.00*
+Intel Xeon E3-1515M v5 @ 2.80GHz	
+10509
+NA
+Intel Xeon E5-2637 v4 @ 3.50GHz	
+10468
+1064.99
+Intel Xeon E3-1545M v5 @ 2.90GHz	
+10451
+NA
+Intel Xeon E3-1240 v5 @ 3.50GHz	
+10402
+341.67*
+Intel Xeon E5-2630 v2 @ 2.60GHz	
+10401
+62.98
+Intel Xeon E3-1275 v5 @ 3.60GHz	
+10380
+537.00
+Intel Xeon E3-1285 v3 @ 3.60GHz	
+10359
+NA
+Intel Xeon E3-1281 v3 @ 3.70GHz	
+10349
+877.75*
+Intel Xeon E3-1270 v5 @ 3.60GHz	
+10338
+346.16
+Intel Xeon E5-2667 @ 2.90GHz	
+10327
+226.00*
+Intel Xeon E5-1630 v4 @ 3.70GHz	
+10302
+NA
+Intel Xeon E5-1630 v3 @ 3.70GHz	
+10278
+597.85*
+Intel Core i7-4980HQ @ 2.80GHz	
+10250
+NA
+Intel Xeon E3-1245 v5 @ 3.50GHz	
+10205
+345.31*
+AMD FX-9590 Eight-Core	
+10191
+99.99
+Intel Xeon E5-2450 @ 2.10GHz	
+10186
+722.22*
+Intel Xeon E3-1276 v3 @ 3.60GHz	
+10171
+1254.00
+Intel Xeon E5-2650 @ 2.00GHz	
+10149
+130.43
+Intel Xeon E3-1240 v6 @ 3.70GHz	
+10148
+289.99
+Intel Xeon E3-1286L v3 @ 3.20GHz	
+10129
+774.00*
+Intel Xeon E5-2637 v3 @ 3.50GHz	
+10128
+1295.95*
+AMD Ryzen 5 PRO 1500	
+10123
+NA
+Intel Core i7-8705G @ 3.10GHz	
+10106
+NA
+Intel Core i7-4770K @ 3.50GHz	
+10096
+284.99
+Intel Xeon E3-1271 v3 @ 3.60GHz	
+10092
+888.00*
+Intel Xeon E3-1260L v5 @ 2.90GHz	
+10083
+639.42*
+AMD Opteron 6380	
+10081
+89.99
+AMD Ryzen 5 1500X	
+10069
+139.99
+Intel Core i7-7920HQ @ 3.10GHz	
+10067
+NA
+Intel Core i5-8400H @ 2.50GHz	
+10062
+250.00*
+Intel Xeon E5-2470 @ 2.30GHz	
+10061
+316.72*
+Intel Core i7-7820HK @ 2.90GHz	
+10048
+NA
+AMD Ryzen 5 PRO 2400G	
+10046
+NA
+Intel Xeon E5-2620 v3 @ 2.40GHz	
+10024
+710.54*
+Intel Xeon E3-1241 v3 @ 3.50GHz	
+10020
+775.00
+Intel Core i7-6700 @ 3.40GHz	
+10007
+299.71
+Intel Core i7-4790 @ 3.60GHz	
+9990
+278.99
+Intel Xeon E3-1285L v3 @ 3.10GHz	
+9981
+808.02
+Intel Xeon E5-1620 v4 @ 3.50GHz	
+9970
+305.95
+Intel Core i5-8500T @ 2.10GHz	
+9942
+218.34*
+Intel Xeon E5-2640 v2 @ 2.00GHz	
+9904
+96.34
+Intel Xeon E3-1286 v3 @ 3.70GHz	
+9899
+839.00*
+Intel Core i7-4940MX @ 3.10GHz	
+9895
+609.95
+Intel Xeon E3-1275 v3 @ 3.50GHz	
+9891
+400.99*
+Intel Xeon E3-1270 v3 @ 3.50GHz	
+9890
+369.99*
+Intel Xeon E3-1246 v3 @ 3.50GHz	
+9879
+830.00
+Intel Core i7-4771 @ 3.50GHz	
+9875
+299.99
+Intel Xeon E3-1505M v6 @ 3.00GHz	
+9854
+NA
+Intel Core i7-4770R @ 3.20GHz	
+9819
+NA
+Intel Core i7-995X @ 3.60GHz	
+9791
+NA
+AMD Opteron 6287 SE	
+9789
+NA
+Intel Core i7-4770 @ 3.40GHz	
+9787
+239.99
+Intel Xeon E3-1230 v5 @ 3.40GHz	
+9778
+301.33
+Intel Core i7-4960HQ @ 2.60GHz	
+9777
+623.00*
+Intel Xeon E5-1620 v3 @ 3.50GHz	
+9758
+358.70*
+Intel Xeon E3-1280 v3 @ 3.60GHz	
+9747
+697.36*
+Intel Xeon D-1531 @ 2.20GHz	
+9730
+348.00*
+Intel Core i7-4820K @ 3.70GHz	
+9723
+594.96
+Intel Core i7-6770HQ @ 2.60GHz	
+9717
+1001.88*
+AMD Ryzen 5 PRO 2400GE	
+9712
+NA
+Intel Xeon E3-1290 V2 @ 3.70GHz	
+9709
+885.00*
+Intel Xeon E3-1230 v6 @ 3.50GHz	
+9704
+270.00
+Intel Xeon E3-1240 v3 @ 3.40GHz	
+9677
+384.40*
+Intel Xeon E3-1231 v3 @ 3.40GHz	
+9626
+259.00
+Intel Core i7-6920HQ @ 2.90GHz	
+9620
+568.00*
+Intel Core i5-8400T @ 1.70GHz	
+9591
+189.00
+Intel Core i5-7640X @ 4.00GHz	
+9585
+263.13
+Intel Xeon E3-1245 v3 @ 3.40GHz	
+9576
+339.95*
+Intel Core i7-4790S @ 3.20GHz	
+9566
+338.14
+Intel Xeon E5-2630L v2 @ 2.40GHz	
+9542
+NA
+Intel Core i7-3770K @ 3.50GHz	
+9521
+247.99
+Intel Xeon E5-2640 @ 2.50GHz	
+9512
+195.42
+Intel Xeon E5-2658 @ 2.10GHz	
+9484
+1462.00*
+Intel Core i7-4930MX @ 3.00GHz	
+9479
+1096.00*
+Intel Xeon E5-2630L v3 @ 1.80GHz	
+9476
+751.92*
+Intel Xeon E3-1270 V2 @ 3.50GHz	
+9473
+282.22
+Intel Xeon E3-1280 V2 @ 3.60GHz	
+9469
+1512.82*
+AMD FX-9370 Eight-Core	
+9466
+178.89
+Intel Core i7-5850HQ @ 2.70GHz	
+9459
+434.00*
+Intel Xeon E5-1620 v2 @ 3.70GHz	
+9454
+329.00*
+Intel Xeon E5-2440 v2 @ 1.90GHz	
+9425
+509.95*
+Intel Core i7-4910MQ @ 2.90GHz	
+9415
+459.95*
+AMD Opteron 6376	
+9414
+65.00
+Intel Core i5-8300H @ 2.30GHz	
+9412
+250.00*
+Intel Xeon E5-2637 v2 @ 3.50GHz	
+9406
+709.00
+Intel Xeon E5-2628L v2 @ 1.90GHz	
+9405
+NA
+Intel Core i7-7820HQ @ 2.90GHz	
+9371
+378.00*
+Intel Core i7-4870HQ @ 2.50GHz	
+9360
+NA
+Intel Xeon E3-1275 V2 @ 3.50GHz	
+9339
+394.72
+Intel Core i7-4770S @ 3.10GHz	
+9336
+249.99
+Intel Xeon E3-1230 v3 @ 3.30GHz	
+9326
+261.66*
+Intel Xeon E3-1535M v5 @ 2.90GHz	
+9312
+NA
+Intel Core i7-3940XM @ 3.00GHz	
+9296
+539.00*
+Intel Core i7-3770 @ 3.40GHz	
+9292
+159.99
+AMD Ryzen 5 2400G	
+9286
+158.99
+Intel Core i7-4860HQ @ 2.40GHz	
+9256
+NA
+Intel Core i3-8350K @ 4.00GHz	
+9250
+183.99
+Intel Xeon E5-2440 @ 2.40GHz	
+9178
+43.72
+Intel Xeon W3690 @ 3.47GHz	
+9178
+1000.00*
+Intel Core i7-7700T @ 2.90GHz	
+9154
+395.08
+Intel Core i7-3920XM @ 2.90GHz	
+9149
+1096.00*
+Intel Xeon E3-1240 V2 @ 3.40GHz	
+9140
+539.95
+Intel Core i5-7600K @ 3.80GHz	
+9129
+250.99
+Intel Core i7-6820HK @ 2.70GHz	
+9123
+NA
+Intel Xeon E3-1245 V2 @ 3.40GHz	
+9118
+607.59
+AMD Opteron 6282 SE	
+9116
+129.99
+Intel Core i7-990X @ 3.47GHz	
+9095
+349.99
+Intel Core i7-4790T @ 2.70GHz	
+9094
+359.00*
+Intel Xeon W3680 @ 3.33GHz	
+9093
+759.95*
+Intel Core i5-8305G @ 2.80GHz	
+9092
+NA
+AMD Ryzen 7 PRO 2700U	
+9067
+NA
+Intel Xeon E5-1620 @ 3.60GHz	
+9065
+329.93*
+Intel Xeon E3-1265L v4 @ 2.30GHz	
+9060
+NA
+AMD Ryzen 5 PRO 2500U	
+9059
+NA
+Intel Core i7-6700T @ 2.80GHz	
+9041
+350.00
+Intel Core i7-4900MQ @ 2.80GHz	
+9032
+586.67*
+AMD FX-8370 Eight-Core	
+9027
+136.77
+Intel Core i7-4850HQ @ 2.30GHz	
+9016
+434.00*
+AMD Opteron 6276	
+9011
+79.99
+Intel Core i7-3820 @ 3.60GHz	
+8999
+199.99
+Intel Core i7-6820EQ @ 2.80GHz	
+8968
+NA
+Intel Xeon E5-2448L v2 @ 1.80GHz	
+8954
+1424.00*
+AMD FX-8350 Eight-Core	
+8949
+79.99
+Intel Core i7-4770HQ @ 2.20GHz	
+8948
+NA
+Intel Xeon X5690 @ 3.47GHz	
+8940
+149.00
+Intel Xeon E5-2623 v3 @ 3.00GHz	
+8937
+404.99*
+Intel Xeon E3-1505M v5 @ 2.80GHz	
+8917
+NA
+Intel Core i7-3770S @ 3.10GHz	
+8880
+139.99
+Intel Xeon E3-1275L v3 @ 2.70GHz	
+8874
+NA
+Intel Core i7-8650U @ 1.90GHz	
+8873
+NA
+Intel Xeon E5-2630 @ 2.30GHz	
+8859
+123.92*
+Intel Xeon E3-1230 V2 @ 3.30GHz	
+8857
+352.10
+Intel Xeon X5679 @ 3.20GHz	
+8845
+NA
+Intel Core i7-7700HQ @ 2.80GHz	
+8838
+NA
+Intel Xeon E5-2430 v2 @ 2.50GHz	
+8833
+559.99
+Intel Core i7-980X @ 3.33GHz	
+8790
+219.98
+Intel Core i7-3840QM @ 2.80GHz	
+8784
+335.00*
+Intel Core i7-6820HQ @ 2.70GHz	
+8775
+NA
+Intel Core i5-7600 @ 3.50GHz	
+8771
+239.99
+Intel Core i7-8565U @ 1.80GHz	
+8759
+NA
+Intel Xeon E3-1265L v3 @ 2.50GHz	
+8722
+709.95
+Intel Core i7-2700K @ 3.50GHz	
+8715
+199.99
+Intel Xeon E5-2620 v2 @ 2.10GHz	
+8702
+42.59
+Intel Xeon E3-1290 @ 3.60GHz	
+8699
+885.00*
+Intel Core i7-6700TE @ 2.40GHz	
+8696
+NA
+Intel Xeon E3-1268L v5 @ 2.40GHz	
+8695
+377.00*
+Intel Core i3-8300 @ 3.70GHz	
+8693
+172.04
+Intel Xeon E5-4617 @ 2.90GHz	
+8684
+89.90*
+Intel Xeon E5-2650L @ 1.80GHz	
+8676
+159.90*
+Intel Core i7-980 @ 3.33GHz	
+8672
+199.98
+Intel Core i7-4810MQ @ 2.80GHz	
+8643
+424.95*
+Intel Core i7-4770T @ 2.50GHz	
+8634
+399.99
+Intel Xeon E5-2420 v2 @ 2.20GHz	
+8629
+579.95*
+Intel Core i7-4760HQ @ 2.10GHz	
+8595
+NA
+Intel Xeon X5680 @ 3.33GHz	
+8562
+161.60
+Intel Xeon Silver 4112 @ 2.60GHz	
+8548
+529.21*
+Intel Core i7-4800MQ @ 2.70GHz	
+8486
+509.95*
+Intel Xeon E3-1280 @ 3.50GHz	
+8473
+368.00
+Intel Core i7-2600K @ 3.40GHz	
+8448
+189.99
+Intel Core i7-3820QM @ 2.70GHz	
+8440
+486.99*
+Intel Xeon E5-2643 @ 3.30GHz	
+8423
+2664.00
+AMD Ryzen 5 1400	
+8396
+129.95
+Intel Core i7-970 @ 3.20GHz	
+8390
+149.98
+Intel Core i7-5700HQ @ 2.70GHz	
+8365
+NA
+Intel Xeon E3-1275 @ 3.40GHz	
+8348
+304.00
+Intel Core i7-8550U @ 1.80GHz	
+8346
+NA
+Intel Xeon X5675 @ 3.07GHz	
+8345
+79.99
+Intel Core i7-3740QM @ 2.70GHz	
+8332
+239.95*
+Intel Core i5-8265U @ 1.60GHz	
+8322
+297.00*
+AMD Ryzen 3 PRO 1300	
+8300
+NA
+Intel Xeon E3-1225 v6 @ 3.30GHz	
+8294
+234.99
+Intel Core i7-4750HQ @ 2.00GHz	
+8279
+NA
+Intel Xeon E5-2450L @ 1.80GHz	
+8261
+130.00*
+Intel Xeon E3-1270 @ 3.40GHz	
+8239
+317.00*
+Intel Core i7-5700EQ @ 2.60GHz	
+8239
+NA
+Intel Core i5-8350U @ 1.70GHz	
+8211
+297.00*
+Intel Xeon E5-2623 v4 @ 2.60GHz	
+8208
+549.00*
+Intel Core i7-3770T @ 2.50GHz	
+8203
+329.99*
+Intel Core i5-5675C @ 3.10GHz	
+8199
+399.99
+Intel Core i7-2600 @ 3.40GHz	
+8196
+149.98
+Intel Core i7-5675C @ 3.10GHz	
+8164
+NA
+Intel Xeon W3670 @ 3.20GHz	
+8152
+565.00*
+Intel Xeon D-2123IT @ 2.20GHz	
+8140
+213.00*
+Intel Core i7-6700HQ @ 2.60GHz	
+8135
+378.00*
+Intel Xeon E5-4620 @ 2.20GHz	
+8127
+189.00
+Intel Core i7-3720QM @ 2.60GHz	
+8124
+359.00*
+AMD Ryzen 3 PRO 2200G	
+8106
+NA
+Intel Core i5-7600T @ 2.80GHz	
+8097
+261.25
+Intel Core i3-8100 @ 3.60GHz	
+8094
+129.79
+Intel Xeon D-1559 @ 1.50GHz	
+8055
+NA
+Intel Core i5-5675R @ 3.10GHz	
+8054
+NA
+Intel Core i5-6600K @ 3.50GHz	
+8054
+285.88
+Intel Core i7-4722HQ @ 2.40GHz	
+8052
+NA
+Intel Core i5-7500 @ 3.40GHz	
+8024
+205.11
+Intel Xeon E3-1245 @ 3.30GHz	
+8019
+260.00
+AMD FX-8320 Eight-Core	
+8017
+92.00
+Intel Xeon E5-2630L @ 2.00GHz	
+8001
+NA
+Intel Core i7-4720HQ @ 2.60GHz	
+8000
+NA
+Intel Core i7-4710MQ @ 2.50GHz	
+7998
+271.57*
+Intel Xeon E3-1220 v6 @ 3.00GHz	
+7976
+214.99
+AMD Ryzen 3 PRO 2200GE	
+7975
+NA
+Intel Xeon E3-1240 @ 3.30GHz	
+7958
+244.00
+Intel Xeon D-1528 @ 1.90GHz	
+7946
+NA
+Intel Xeon X5670 @ 2.93GHz	
+7931
+66.59
+Intel Xeon E5-2620 @ 2.00GHz	
+7925
+34.65
+Intel Core i7-4860EQ @ 1.80GHz	
+7875
+NA
+Intel Xeon E5-2608L v3 @ 2.00GHz	
+7857
+441.00*
+Intel Xeon E3-1268L v3 @ 2.30GHz	
+7850
+NA
+Intel Xeon E3-1230 @ 3.20GHz	
+7848
+215.00
+Intel Xeon E-2104G @ 3.20GHz	
+7825
+193.00*
+AMD Opteron 6328	
+7813
+199.99
+Intel Xeon E3-1225 v5 @ 3.30GHz	
+7810
+268.05*
+AMD FX-8370E Eight-Core	
+7804
+185.00
+Intel Core i5-4690K @ 3.50GHz	
+7796
+199.99
+Intel Xeon E3-1240L v5 @ 2.10GHz	
+7793
+278.00*
+Intel Xeon E3-1265L V2 @ 2.50GHz	
+7785
+142.42*
+Intel Xeon W-2104 @ 3.20GHz	
+7782
+255.00*
+Intel Core i5-6600 @ 3.30GHz	
+7763
+219.99
+AMD FX-8310 Eight-Core	
+7758
+NA
+Intel Xeon E3-1220 v5 @ 3.00GHz	
+7745
+266.47
+Intel Core i7-4710HQ @ 2.50GHz	
+7735
+NA
+Intel Xeon D-1537 @ 1.70GHz	
+7731
+571.00*
+Intel Core i7-4700HQ @ 2.40GHz	
+7730
+383.00*
+AMD FX-8300 Eight-Core	
+7719
+80.59
+Intel Core i5-7440HQ @ 2.80GHz	
+7701
+NA
+Intel Core i7-4700MQ @ 2.40GHz	
+7694
+189.00*
+Intel Xeon E3-1235 @ 3.20GHz	
+7680
+244.00*
+AMD Ryzen Embedded V1605B	
+7667
+NA
+Intel Core i5-8250U @ 1.60GHz	
+7660
+NA
+Intel Core i5-4690 @ 3.50GHz	
+7656
+179.99
+Intel Core i3-8300T @ 3.20GHz	
+7650
+226.99*
+Intel Core i5-4670K @ 3.40GHz	
+7632
+240.00
+AMD FX-8150 Eight-Core	
+7627
+383.50*
+Intel Xeon X5660 @ 2.80GHz	
+7622
+114.91
+Intel Core i7-4785T @ 2.20GHz	
+7608
+NA
+Intel Core i7-3630QM @ 2.40GHz	
+7586
+239.00*
+AMD FX-8320E Eight-Core	
+7541
+97.08
+Intel Xeon E3-1226 v3 @ 3.30GHz	
+7530
+638.00
+Intel Xeon E3-1240L v3 @ 2.00GHz	
+7510
+NA
+Intel Core i7-4712HQ @ 2.30GHz	
+7507
+NA
+AMD Opteron 6366 HE	
+7503
+199.99
+Intel Core i7-4702HQ @ 2.20GHz	
+7486
+NA
+Intel Core i7-3610QM @ 2.30GHz	
+7468
+399.99*
+AMD Ryzen 3 1300X	
+7467
+139.11
+AMD Ryzen 7 2700U	
+7454
+NA
+Intel Core i5-4670 @ 3.40GHz	
+7437
+187.99
+Intel Core i5-5575R @ 2.80GHz	
+7434
+NA
+Intel Xeon E5-1410 v2 @ 2.80GHz	
+7430
+NA
+AMD Ryzen 3 2200G	
+7426
+97.99
+Intel Core i5-4670R @ 3.00GHz	
+7419
+276.00*
+Intel Xeon X5650 @ 2.67GHz	
+7415
+29.91
+Intel Core i5-4690S @ 3.20GHz	
+7414
+269.94*
+Intel Core i5-4670K CPT @ 3.40GHz	
+7411
+NA
+Intel Core i3-8100T @ 3.10GHz	
+7397
+139.00*
+Intel Core i7-3615QM @ 2.30GHz	
+7379
+NA
+Intel Core i5-7400 @ 3.00GHz	
+7349
+215.13
+AMD Ryzen 5 2500U	
+7346
+NA
+Intel Core i7-3615QE @ 2.30GHz	
+7340
+NA
+AMD Opteron 6238	
+7316
+59.99
+Intel Xeon E5-1410 @ 2.80GHz	
+7312
+NA
+Intel Core i7-4765T @ 2.00GHz	
+7312
+399.99
+Intel Core i5-6600T @ 2.70GHz	
+7310
+174.99
+Intel Core i5-4590 @ 3.30GHz	
+7299
+189.98
+AMD Ryzen 5 2400GE	
+7285
+NA
+Intel Xeon E5-2430L @ 2.00GHz	
+7269
+103.99*
+Intel Xeon E5-1607 v4 @ 3.10GHz	
+7249
+NA
+Intel Core i5-6500 @ 3.20GHz	
+7239
+225.75
+Intel Xeon E3-1230L v3 @ 1.80GHz	
+7231
+287.90*
+AMD Ryzen 3 2200GE	
+7229
+NA
+Intel Core i7-2960XM @ 2.70GHz	
+7216
+409.95*
+Intel Xeon E3-1225 v3 @ 3.20GHz	
+7208
+458.34*
+Intel Core i7-4712MQ @ 2.30GHz	
+7198
+NA
+AMD Ryzen 3 PRO 2300U	
+7188
+NA
+AMD Ryzen Embedded V1807B	
+7185
+NA
+Intel Core i7-4700EQ @ 2.40GHz	
+7180
+NA
+Intel Core i5-3570K @ 3.40GHz	
+7171
+143.99
+Intel Core i7-4702MQ @ 2.20GHz	
+7134
+336.25*
+Intel Core i5-4570 @ 3.20GHz	
+7124
+174.99
+Intel Core i5-3570 @ 3.40GHz	
+7105
+139.99
+Intel Core i5-6402P @ 2.80GHz	
+7099
+189.99*
+Intel Xeon E3-1220 v3 @ 3.10GHz	
+7097
+241.27
+Intel Xeon X5687 @ 3.60GHz	
+7091
+51.66
+Intel Xeon E3-1505L v5 @ 2.00GHz	
+7082
+NA
+Intel Core i7-2600S @ 2.80GHz	
+7073
+198.99
+AMD Ryzen 3 PRO 1200	
+7069
+NA
+Intel Xeon E5-2420 @ 1.90GHz	
+7045
+390.02
+Intel Core i5-7500T @ 2.70GHz	
+7038
+236.25
+Intel Core i7-2920XM @ 2.50GHz	
+7038
+608.95*
+Intel Core i5-4590S @ 3.00GHz	
+7019
+196.99
+Intel Xeon W-2102 @ 2.90GHz	
+7001
+337.99*
+Intel Xeon X5677 @ 3.47GHz	
+7000
+105.00*
+AMD FX-6350 Six-Core	
+6991
+129.99
+Intel Core i7-2860QM @ 2.50GHz	
+6986
+599.99*
+Intel Xeon D-1521 @ 2.40GHz	
+6980
+NA
+Intel Core i7-3632QM @ 2.20GHz	
+6941
+335.00*
+Intel Core i5-3550 @ 3.30GHz	
+6941
+329.95
+Intel Xeon E5-1607 v3 @ 3.10GHz	
+6939
+NA
+Intel Xeon E5649 @ 2.53GHz	
+6936
+115.00*
+Intel Xeon E5-2609 v4 @ 1.70GHz	
+6917
+359.73*
+AMD FX-6330 Six-Core	
+6916
+NA
+Intel Core i5-3550S @ 3.00GHz	
+6892
+341.01
+Intel Xeon E5-2430 @ 2.20GHz	
+6878
+728.95*
+Intel Xeon L5639 @ 2.13GHz	
+6835
+NA
+Intel Xeon E3-1225 V2 @ 3.20GHz	
+6830
+506.59
+Intel Core i7-3612QM @ 2.10GHz	
+6829
+NA
+Intel Core i5-7300HQ @ 2.50GHz	
+6801
+NA
+AMD Opteron 6220	
+6785
+59.99
+Intel Core i5-4570S @ 2.90GHz	
+6783
+221.32
+Intel Core i5-6440HQ @ 2.60GHz	
+6779
+NA
+Intel Core i7-2840QM @ 2.40GHz	
+6766
+NA
+Intel Core i5-6400 @ 2.70GHz	
+6762
+199.99
+AMD Ryzen 3 1200	
+6759
+109.87
+Intel Core i5-4570R @ 2.70GHz	
+6751
+NA
+AMD Opteron 6272	
+6748
+658.89
+Intel Core i5-3570S @ 3.10GHz	
+6736
+285.00*
+Intel Core i7-4770TE @ 2.30GHz	
+6732
+NA
+Intel Core i5-4460 @ 3.20GHz	
+6707
+169.99
+Intel Core i5-3470 @ 3.20GHz	
+6694
+110.38
+Intel Xeon E3-1220 V2 @ 3.10GHz	
+6693
+329.11
+Intel Core i7-3635QM @ 2.40GHz	
+6682
+NA
+Intel Core i5-2550K @ 3.40GHz	
+6666
+128.99
+AMD Opteron 4284	
+6660
+59.99
+Intel Core i7-985 @ 3.47GHz	
+6641
+NA
+Intel Core i7-2820QM @ 2.30GHz	
+6641
+251.04*
+Intel Xeon E5-2430L v2 @ 2.40GHz	
+6627
+NA
+Intel Core i3-7350K @ 4.20GHz	
+6620
+213.89
+Intel Core i5-3475S @ 2.90GHz	
+6612
+143.50*
+AMD FX-8120 Eight-Core	
+6597
+99.99
+Intel Core i7-2760QM @ 2.40GHz	
+6577
+139.95
+Intel Core i7-3612QE @ 2.10GHz	
+6573
+NA
+Intel Core i5-6500TE @ 2.30GHz	
+6559
+209.99
+Intel Core i3-7320 @ 4.10GHz	
+6541
+224.15*
+Intel Xeon E3-1260L @ 2.40GHz	
+6534
+85.62
+Intel Core i5-3450 @ 3.10GHz	
+6520
+127.99
+Intel Core i7-7567U @ 3.50GHz	
+6499
+NA
+Intel Core i5-4440 @ 3.10GHz	
+6495
+169.99
+Intel Core i5-4690T @ 2.50GHz	
+6495
+NA
+Intel Xeon E5645 @ 2.40GHz	
+6484
+107.98
+Intel Core i5-2500K @ 3.30GHz	
+6476
+123.99
+Intel Xeon E3-1235L v5 @ 2.00GHz	
+6470
+NA
+Intel Core i7-3610QE @ 2.30GHz	
+6451
+NA
+Intel Xeon X5672 @ 3.20GHz	
+6438
+283.72*
+Intel Core i3-7300 @ 4.00GHz	
+6436
+362.00*
+Intel Core i5-4670S @ 3.10GHz	
+6436
+NA
+Intel Xeon W3580 @ 3.33GHz	
+6433
+214.50*
+AMD Opteron 4280	
+6430
+49.99
+Intel Core i7-6822EQ @ 2.00GHz	
+6427
+NA
+Intel Core i5-7400T @ 2.40GHz	
+6420
+189.00
+Intel Xeon E5-1603 v4 @ 2.80GHz	
+6420
+NA
+Intel Core i5-4460S @ 2.90GHz	
+6406
+659.99*
+Intel Xeon L5640 @ 2.27GHz	
+6405
+34.75*
+AMD FX-6300 Six-Core	
+6385
+58.99
+AMD Opteron 3380	
+6384
+809.00*
+Intel Core i5-3470S @ 2.90GHz	
+6358
+140.09
+Intel Core i5-2500 @ 3.30GHz	
+6329
+88.99
+Intel Core i5-4430 @ 3.00GHz	
+6314
+179.99
+Intel Core i5-6500T @ 2.50GHz	
+6273
+NA
+Intel Core i3-8109U @ 3.00GHz	
+6248
+NA
+Intel Core i5-3450S @ 2.80GHz	
+6224
+99.99
+AMD FX-6130 Six-Core	
+6215
+NA
+Intel Core i5-4440S @ 2.80GHz	
+6212
+462.97*
+Intel Core i5-4670T @ 2.30GHz	
+6206
+213.00*
+AMD PRO A12-9800	
+6199
+169.00*
+Intel Xeon E5-1607 v2 @ 3.00GHz	
+6197
+313.00*
+Intel Xeon W5590 @ 3.33GHz	
+6183
+2508.95*
+AMD Opteron 6174	
+6171
+185.99
+Intel Xeon E5-1603 v3 @ 2.80GHz	
+6165
+NA
+Intel Core i5-2450P @ 3.20GHz	
+6144
+89.99
+Intel Core i5-3350P @ 3.10GHz	
+6142
+228.50
+Intel Core i7-975 @ 3.33GHz	
+6135
+179.99
+AMD Opteron 4334	
+6133
+216.42*
+AMD FX-6200 Six-Core	
+6129
+339.95
+Intel Core i7-2720QM @ 2.20GHz	
+6115
+189.95*
+Intel Core i5-3340 @ 3.10GHz	
+6089
+262.01
+Intel Xeon W3570 @ 3.20GHz	
+6084
+479.95*
+Intel Core i5-6300HQ @ 2.30GHz	
+6081
+NA
+Intel Xeon E3-1220 @ 3.10GHz	
+6073
+190.00
+AMD PRO A12-8870	
+6067
+NA
+Intel Core i3-6320 @ 3.90GHz	
+6047
+159.99
+Intel Xeon E3-1265L @ 2.40GHz	
+6038
+918.35*
+AMD FX-8140 Eight-Core	
+6033
+NA
+Intel Core i7-7660U @ 2.50GHz	
+6032
+NA
+AMD FX-8100 Eight-Core	
+6018
+142.00*
+Intel Xeon X5647 @ 2.93GHz	
+5980
+199.75*
+AMD Opteron 6234	
+5979
+69.99*
+Intel Core i5-2400 @ 3.10GHz	
+5954
+83.99
+Intel Xeon W3565 @ 3.20GHz	
+5943
+69.95*
+AMD Opteron 3365	
+5943
+NA
+Intel Xeon E5-2609 v3 @ 1.90GHz	
+5940
+618.71
+Intel Core i5-3330 @ 3.00GHz	
+5932
+99.99
+Intel Core i5-7360U @ 2.30GHz	
+5929
+NA
+Intel Xeon E3-1225 @ 3.10GHz	
+5909
+175.00*
+Intel Core i5-4430S @ 2.70GHz	
+5906
+158.99
+Intel Core i5-3570T @ 2.30GHz	
+5901
+NA
+Intel Core i7-2670QM @ 2.20GHz	
+5887
+139.00
+Intel Xeon E5-1607 @ 3.00GHz	
+5863
+21.99*
+Intel Core i7-965 @ 3.20GHz	
+5856
+139.99
+Intel Core i7-7560U @ 2.40GHz	
+5855
+NA
+AMD PRO A10-8850B	
+5852
+NA
+Intel Core i3-6300 @ 3.80GHz	
+5849
+142.99
+Intel Core i5-3340S @ 2.80GHz	
+5846
+148.99
+Intel Xeon W5580 @ 3.20GHz	
+5836
+107.03
+Intel Core i7-960 @ 3.20GHz	
+5819
+99.99
+AMD Ryzen 3 2300U	
+5813
+NA
+Intel Core i5-3335S @ 2.70GHz	
+5788
+NA
+Intel Core i3-7100 @ 3.90GHz	
+5782
+139.99
+Intel Core i5-6440EQ @ 2.70GHz	
+5778
+NA
+AMD Opteron 6212	
+5776
+29.99
+Intel Core i7-2710QE @ 2.10GHz	
+5768
+NA
+Intel Core i5-2320 @ 3.00GHz	
+5758
+160.00
+Intel Xeon D-1520 @ 2.20GHz	
+5755
+NA
+AMD A10-7890K	
+5745
+199.99
+AMD FX-6120 Six-Core	
+5741
+NA
+AMD Phenom II X6 1100T	
+5734
+176.99
+AMD PRO A10-8770	
+5707
+NA
+Intel Pentium Gold G5600 @ 3.90GHz	
+5707
+114.74
+Intel Core i5-7260U @ 2.20GHz	
+5697
+NA
+Intel Xeon W3550 @ 3.07GHz	
+5696
+59.95*
+Intel Core i5-2380P @ 3.10GHz	
+5679
+89.99
+Intel Xeon X5570 @ 2.93GHz	
+5679
+89.00
+AMD PRO A10-9700	
+5677
+169.00*
+Intel Core i5-3330S @ 2.70GHz	
+5666
+94.99
+Intel Xeon X3480 @ 3.07GHz	
+5657
+NA
+Intel Core i5-7287U @ 3.30GHz	
+5656
+NA
+Intel Core i7-6567U @ 3.30GHz	
+5648
+NA
+AMD PRO A10-8750B	
+5646
+NA
+AMD A10-8850	
+5616
+NA
+AMD Opteron 4332 HE	
+5614
+NA
+Intel Core i5-4590T @ 2.00GHz	
+5606
+NA
+Intel Core i7-880 @ 3.07GHz	
+5601
+583.00*
+Intel Core i3-4370 @ 3.80GHz	
+5600
+449.97
+Intel Core i5-6400T @ 2.20GHz	
+5595
+169.00
+AMD Phenom II X6 1090T	
+5587
+396.08*
+AMD Athlon X4 880K	
+5565
+89.99
+Intel Core i7-950 @ 3.07GHz	
+5558
+329.99
+Intel Xeon L5638 @ 2.00GHz	
+5556
+69.90*
+Intel Xeon E5-1603 @ 2.80GHz	
+5546
+164.99*
+Intel Core i7-2675QM @ 2.20GHz	
+5541
+NA
+Intel Core i5-2310 @ 2.90GHz	
+5535
+79.98
+Intel Core i7-2630QM @ 2.00GHz	
+5534
+108.24*
+AMD A12-9800	
+5516
+129.99
+Intel Core i3-6100 @ 3.70GHz	
+5490
+175.99
+AMD A10-7850K APU	
+5474
+129.99
+Intel Xeon W3540 @ 2.93GHz	
+5472
+19.92*
+AMD A8-8650	
+5470
+NA
+AMD A10-7870K	
+5468
+249.99
+AMD A10 PRO-7850B APU	
+5467
+NA
+Intel Core i3-4360 @ 3.70GHz	
+5461
+279.95*
+Intel Core i7-2635QM @ 2.00GHz	
+5456
+NA
+Intel Xeon E5-2603 v4 @ 1.70GHz	
+5451
+229.99*
+AMD Opteron 6176 SE	
+5446
+276.01
+Intel Xeon Bronze 3104 @ 1.70GHz	
+5446
+236.34
+AMD A10-9700	
+5444
+79.99
+AMD Athlon X4 860K	
+5435
+58.99
+Intel Core i7-875K @ 2.93GHz	
+5432
+199.99
+AMD Athlon X4 845	
+5426
+49.99
+AMD PRO A8-8650B	
+5426
+NA
+AMD Opteron 4386	
+5419
+139.99
+Intel Core i3-6098P @ 3.60GHz	
+5412
+133.74*
+Intel Xeon X5550 @ 2.67GHz	
+5404
+17.27*
+Intel Xeon X5560 @ 2.80GHz	
+5399
+57.95
+AMD FX-6100 Six-Core	
+5379
+299.00
