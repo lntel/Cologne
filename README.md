@@ -70,10 +70,10 @@ class Scanner
 }
 
 $db = new Database;
-$database = $db->connect();
+$database = $db->connect(); // Initialisation and connection to the MySQL Database
 
-$scan = new Scanner($database, 'gpu.txt');
-$scan->scanAttributes();
+$scan = new Scanner($database, 'gpu.txt'); // Database instance and file name containing information
+$scan->scanAttributes(); // subroutine includes sorting and insertion
 
 ?>
 ```
