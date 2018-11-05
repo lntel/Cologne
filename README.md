@@ -8,7 +8,7 @@ Code used to insert data to MySQL:
 ```php
 <?php
 
-namespace Bonsai;
+namespace Cologne;
 
 include 'v1/dependencies/database.php';
 
