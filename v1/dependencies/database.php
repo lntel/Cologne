@@ -12,7 +12,7 @@ class Database
     {
         try
         {
-            $this->pdo = new PDO('mysql:host=localhost;dbname=bonsai;charset=utf8', 'root', '');
+            $this->pdo = new PDO('mysql:host=localhost;dbname=cologne;charset=utf8', 'root', '');
         }
         catch(PDOException $e)
         {

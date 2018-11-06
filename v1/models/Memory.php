@@ -6,7 +6,7 @@ use \PDO;
 
 class Memory {
     private $conn;
-    private $table = 'memory';
+    private $table = 'mem';
 
     public $id;
     public $name;
@@ -29,6 +29,25 @@ class Memory {
         $result = $this->conn->query($query);
 
         return $result;
+    }
+
+    public function search($key)
+    {
+        $query = "SELECT
+                *
+            FROM
+                " . $this->table . "
+            WHERE
+                name LIKE ?";
+
+        $sql = $this->conn->prepare($query);
+
+        $key = "%" . $key . "%";
+
+        $sql->bindParam(1, $key);
+        $sql->execute();
+
+        return $sql;
     }
 }
 

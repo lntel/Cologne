@@ -6,7 +6,7 @@ use \PDO;
 
 class Processor {
     private $conn;
-    private $table = 'processor';
+    private $table = 'cpu';
 
     public $id;
     public $name;
@@ -29,6 +29,25 @@ class Processor {
         $result = $this->conn->query($query);
 
         return $result;
+    }
+    
+    public function search($key)
+    {
+        $query = "SELECT
+                *
+            FROM
+                " . $this->table . "
+            WHERE
+                name LIKE ?";
+
+        $sql = $this->conn->prepare($query);
+
+        $key = "%" . $key . "%";
+
+        $sql->bindParam(1, $key);
+        $sql->execute();
+
+        return $sql;
     }
 }
 

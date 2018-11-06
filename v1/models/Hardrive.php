@@ -2,11 +2,10 @@
 
 namespace Cologne;
 
-use \PDO;
+class Hardrive {
 
-class Graphics {
     private $conn;
-    private $table = 'gpu';
+    private $table = 'hdd';
 
     public $id;
     public $name;
@@ -25,7 +24,7 @@ class Graphics {
                 price
             FROM
                 ' . $this->table;
-        
+
         $result = $this->conn->query($query);
 
         return $result;
@@ -49,6 +48,7 @@ class Graphics {
 
         return $sql;
     }
+
 }
 
 ?>
