@@ -1,23 +1,23 @@
 <?php
 
-namespace Cologne\Memory\Read;
+namespace Cologne\Graphics\Read;
 
 header("Content-Type: application/json; charset=UTF-8");
 
 include_once '../dependencies/database.php';
-include_once '../models/Memory.php';
+include_once '../models/Graphics.php';
 
 use \PDO;
 
 use Cologne\Database as Database;
-use Cologne\Memory as Memory;
+use Cologne\Graphics as Graphics;
 
 $database = new Database;
 $db = $database->connect();
 
-$memory = new Memory($db);
+$graphics = new Graphics($db);
 
-$result = $memory->read();
+$result = $graphics->read();
 
 $num = $result->rowCount();
 

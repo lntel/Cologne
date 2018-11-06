@@ -1,6 +1,6 @@
 <?php
 
-namespace Bonsai;
+namespace Cologne;
 
 use \PDO;
 

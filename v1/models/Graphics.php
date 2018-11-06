@@ -4,9 +4,9 @@ namespace Cologne;
 
 use \PDO;
 
-class Processor {
+class Graphics {
     private $conn;
-    private $table = 'processor';
+    private $table = 'gpu';
 
     public $id;
     public $name;
