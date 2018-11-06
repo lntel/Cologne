@@ -2,7 +2,7 @@
 ## What is Cologne?
 Cologne is an API and software that uses big data regarding computer hardware to accurately estimate the original value of a given computer system.
 ## How the information was collected
-Firstly I attempted scraping the data from https://uk.pcpartpicker.com/ however, I found that the site didn't have a large quanitiy of hardware therefore I moved onto https://www.cpubenchmark.net/ where I found the data was a lot easier to scrape and clean and the quanitiy of data was much larger opposed to the first website.
+Firstly I attempted scraping the data from https://uk.pcpartpicker.com/ however, I found that the site didn't have a large quantity of hardware therefore I moved onto https://www.cpubenchmark.net/ where I found the data was a lot easier to scrape and clean and the quanitiy of data was much larger opposed to the first website.
 
 Code used to insert data to MySQL:
 ```php
