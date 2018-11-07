@@ -78,9 +78,8 @@ $database = $db->connect(); // Initialisation and connection to the MySQL Databa
 
 $scan = new Scanner($database, $argv[1], $argv[2]); // Database instance and file name containing information
 $scan->scanAttributes(); // subroutine includes sorting and insertion
+?>
+```
 
 ## Usage
 ### Hardware Scraper
-
-?>
-```
