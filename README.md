@@ -82,7 +82,8 @@ $scan->scanAttributes(); // subroutine includes sorting and insertion
 ```
 
 ## Usage
-### Hardware Scraper
+### Hardware Insertion
+Using the hardward insertion script is quite intuitive. It takes two parameters one is the filename and the other is the table name where the data will go.
 ```
 php sort.php cpu.txt cpu
 ```
