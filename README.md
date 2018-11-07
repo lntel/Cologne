@@ -83,3 +83,6 @@ $scan->scanAttributes(); // subroutine includes sorting and insertion
 
 ## Usage
 ### Hardware Scraper
+```
+php sort.php cpu.txt cpu
+```
