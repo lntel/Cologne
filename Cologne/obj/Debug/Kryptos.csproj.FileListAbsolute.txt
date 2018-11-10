@@ -18,7 +18,10 @@ C:\Users\jasper\Documents\GitHub\Cologne\Cologne\bin\Debug\Cologne.pdb
 C:\Users\jasper\Documents\GitHub\Cologne\Cologne\bin\Debug\MaterialSkin.dll
 C:\Users\jasper\Documents\GitHub\Cologne\Cologne\bin\Debug\Newtonsoft.Json.dll
 C:\Users\jasper\Documents\GitHub\Cologne\Cologne\bin\Debug\Newtonsoft.Json.xml
-C:\Users\jasper\Documents\GitHub\Cologne\Cologne\obj\Debug\Kryptos.csprojResolveAssemblyReference.cache
 C:\Users\jasper\Documents\GitHub\Cologne\Cologne\obj\Debug\Kryptos.Form1.resources
 C:\Users\jasper\Documents\GitHub\Cologne\Cologne\obj\Debug\Cologne.Properties.Resources.resources
 C:\Users\jasper\Documents\GitHub\Cologne\Cologne\obj\Debug\Kryptos.csproj.GenerateResource.Cache
+C:\Users\jasper\Documents\GitHub\Cologne\Cologne\bin\Debug\MetroFramework.Design.dll
+C:\Users\jasper\Documents\GitHub\Cologne\Cologne\bin\Debug\MetroFramework.dll
+C:\Users\jasper\Documents\GitHub\Cologne\Cologne\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\jasper\Documents\GitHub\Cologne\Cologne\obj\Debug\Kryptos.csprojResolveAssemblyReference.cache
