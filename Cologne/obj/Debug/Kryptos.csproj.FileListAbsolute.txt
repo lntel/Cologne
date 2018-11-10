@@ -1,0 +1,12 @@
+C:\Users\jasper\Documents\GitHub\Kryptos\Kryptos\obj\Debug\Kryptos.csprojResolveAssemblyReference.cache
+C:\Users\jasper\Documents\GitHub\Kryptos\Kryptos\obj\Debug\Kryptos.Form1.resources
+C:\Users\jasper\Documents\GitHub\Kryptos\Kryptos\obj\Debug\Kryptos.csproj.GenerateResource.Cache
+C:\Users\jasper\Documents\GitHub\Kryptos\Kryptos\bin\Debug\MaterialSkin.dll
+C:\Users\jasper\Documents\GitHub\Kryptos\Kryptos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jasper\Documents\GitHub\Kryptos\Kryptos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jasper\Documents\GitHub\Kryptos\Kryptos\bin\Debug\Cologne.exe.config
+C:\Users\jasper\Documents\GitHub\Kryptos\Kryptos\bin\Debug\Cologne.exe
+C:\Users\jasper\Documents\GitHub\Kryptos\Kryptos\bin\Debug\Cologne.pdb
+C:\Users\jasper\Documents\GitHub\Kryptos\Kryptos\obj\Debug\Cologne.Properties.Resources.resources
+C:\Users\jasper\Documents\GitHub\Kryptos\Kryptos\obj\Debug\Cologne.exe
+C:\Users\jasper\Documents\GitHub\Kryptos\Kryptos\obj\Debug\Cologne.pdb
