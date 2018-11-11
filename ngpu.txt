@@ -1,0 +1,1239 @@
+Quadro 2000 D	
+1,182
+NA
+Intel UHD P630	
+1,172
+NA
+Intel Iris Pro 5200	
+1,171
+NA
+GeForce GT 745A	
+1,171
+NA
+Radeon R5 PRO A6-9500 R5, 8 COMPUTE CORES 2C+6G	
+1,168
+NA
+GeForce GPU	
+1,167
+NA
+Radeon R7 A10-7890K	
+1,166
+NA
+FireStream 9250	
+1,165
+NA
+Intel UHD 630	
+1,162
+NA
+Barco MXRT 5400	
+1,161
+NA
+Radeon R7 PRO A12-8870E	
+1,160
+NA
+Intel Coffee Lake UHD	
+1,158
+NA
+Radeon HD 4850 X2	
+1,148
+NA
+Radeon R7 PRO A10-8770E	
+1,148
+NA
+Radeon Vega 3	
+1,147
+NA
+Radeon HD 8850M / R9 M265X	
+1,140
+NA
+GeForce GTX 260	
+1,134
+$95.38*
+Radeon HD 7560D + 6670 Dual	
+1,131
+NA
+Radeon R7 A10-7870K	
+1,131
+NA
+Radeon R7 A8-9600 RADEON	
+1,124
+NA
+GeForce 845M	
+1,122
+NA
+Intel HD 630	
+1,119
+NA
+Radeon R7 M460	
+1,119
+NA
+RadeonT R5 430	
+1,118
+NA
+Radeon R9 M275	
+1,115
+$699.99
+Radeon R7 M260X	
+1,107
+NA
+Radeon Vega 3 Mobile	
+1,107
+NA
+Radeon R7 A10-9700E RADEON	
+1,105
+NA
+Quadro FX 5800	
+1,105
+$178.89*
+Radeon R7 PRO A10-9700E	
+1,105
+NA
+Radeon HD 7670	
+1,103
+NA
+FirePro M4150	
+1,102
+NA
+Radeon HD 7660D + 6570 Dual	
+1,100
+NA
+Radeon R7 A10-8850	
+1,099
+NA
+FirePro M4170	
+1,087
+NA
+Radeon HD 5670	
+1,084
+$47.84*
+Radeon R7 PRO A10-9700B	
+1,083
+NA
+FirePro 3D V4800	
+1,080
+$159.99*
+Quadro K2000M	
+1,079
+$149.95*
+NVS 810	
+1,067
+$624.99
+Intel HD P530	
+1,066
+NA
+Radeon HD 7660D + 7670 Dual	
+1,062
+NA
+Radeon HD 7520G + 7700M Dual	
+1,061
+NA
+Radeon HD 6670	
+1,059
+$102.99*
+Firepro M4100	
+1,059
+NA
+Radeon R7 M445	
+1,059
+NA
+GeForce 920MX	
+1,058
+NA
+GeForce GT 445M	
+1,056
+NA
+Radeon HD 8750M	
+1,055
+NA
+GeForce GTX 295	
+1,052
+$159.99*
+Radeon R7 PRO A8-9600	
+1,049
+NA
+Radeon HD 7670A	
+1,049
+NA
+Radeon R5 A6-9500 RADEON R5, 8 COMPUTE CORES 2C+6G	
+1,048
+NA
+Radeon R7 + R7 240 Dual	
+1,045
+NA
+Radeon R7 PRO A12-9800E	
+1,043
+NA
+Radeon R5 340	
+1,042
+NA
+Radeon R7 340	
+1,041
+NA
+Quadro 2000M	
+1,041
+$46.56
+Quadro M500M	
+1,041
+NA
+Radeon HD 4770	
+1,039
+NA
+Radeon HD 8600/8700M	
+1,033
+NA
+Radeon HD 8570D + HD 8570 Dual	
+1,033
+NA
+Radeon R5 430	
+1,031
+NA
+Radeon HD7570	
+1,029
+NA
+Radeon R7 + R5 330 Dual	
+1,028
+NA
+Radeon R7 A8-7500	
+1,028
+NA
+Radeon HD 4850	
+1,025
+$89.99*
+Radeon R7 A10-7850K	
+1,020
+NA
+Radeon HD 8670D + R7 240 Dual	
+1,020
+NA
+Quadro K1100M	
+1,015
+$79.00*
+Radeon R5 PRO A6-8570 R5, 8 COMPUTE CORES 2C+6G	
+1,014
+NA
+Radeon HD 6700M	
+1,012
+NA
+Intel UHD Graphics 620	
+1,011
+NA
+Radeon HD 7690M XT	
+1,009
+NA
+Quadro FX 4800	
+1,003
+$149.99*
+Radeon HD 8730M	
+1,001
+NA
+Radeon HD 8570D + R7 200 Dual	
+999
+NA
+Radeon HD 7660G + HD 7500M/7600M Dual	
+999
+NA
+Intel HD 530	
+999
+NA
+Radeon HD 7690M	
+999
+NA
+Radeon R7 A10-7860K	
+994
+NA
+Barco MXRT 5450	
+993
+NA
+Radeon HD 7640G + HD 8750M Dual	
+993
+NA
+GeForce 830A	
+990
+NA
+Radeon HD 6800M	
+987
+NA
+Radeon R7 A265	
+987
+NA
+Radeon R7 A10-8750	
+987
+NA
+Radeon HD 8570	
+985
+NA
+Radeon HD 8690M	
+984
+NA
+Radeon HD 7570	
+983
+NA
+Radeon HD 7560D + 7560D Dual	
+983
+NA
+GeForce 940M	
+982
+NA
+Radeon R7 PRO A12-8830B	
+979
+NA
+Radeon R7 240	
+978
+$49.99
+Intel Iris 6100	
+976
+NA
+Radeon HD 7730M	
+974
+NA
+Radeon E6760	
+973
+$239.99*
+Radeon HD 8850M	
+973
+NA
+GeForce GT 745M	
+968
+NA
+Radeon HD 7660G N HD 7660G + HD 7700M N HD 7700M D	
+967
+NA
+Radeon HD 6770M	
+964
+NA
+Radeon HD 8570D + R7 240 Dual	
+964
+NA
+Radeon HD 5600/5700	
+963
+NA
+Radeon R7 A10 PRO-7850B	
+962
+NA
+Radeon R7 Opteron X3421	
+962
+NA
+GeForce GT 640M	
+959
+NA
+Radeon R5 PRO A6-9500E R5, 6 COMPUTE CORES 2C+4G	
+955
+NA
+Radeon HD 4830	
+950
+$59.99*
+Radeon HD 8670D + R7 200 Dual	
+950
+NA
+Radeon R7 A12-9730P RADEON	
+948
+NA
+Quadro CX	
+947
+$149.95*
+Radeon R7 PRO A10-8850B	
+945
+NA
+Radeon HD 7660D + R7 240 Dual	
+942
+NA
+Radeon HD 6750M	
+939
+NA
+Radeon R7 M440	
+939
+NA
+GeForce 930M	
+939
+NA
+Radeon HD 7660G + 7730M Dual	
+931
+NA
+Radeon HD 8650G	
+931
+NA
+Radeon R7 240 + HD 8670D Dual	
+930
+NA
+Radeon R7 A8-7600	
+929
+NA
+GeForce 920A	
+925
+NA
+Intel HD Graphics 620	
+925
+NA
+GeForce GT 730	
+923
+$58.99
+Radeon R7 PRO A10-8750B	
+922
+NA
+Radeon HD 8690A	
+919
+NA
+Radeon R7 A12-9720P RADEON	
+918
+NA
+Radeon R7 240 + HD 8570D Dual	
+918
+NA
+GeForce GT 635	
+917
+NA
+GRID K220Q	
+912
+NA
+Radeon R7 A8-8650	
+911
+NA
+GeForce 840M	
+911
+NA
+Radeon R7 M365X	
+905
+NA
+FirePro W2100	
+899
+$113.99*
+GeForce 9800 GTX+	
+899
+NA
+Radeon R7 A10-7700K	
+897
+NA
+GeForce GT 555M	
+894
+NA
+Radeon R7 + R5 435 Dual A10-9700 RADEON	
+886
+NA
+GeForce GT 645M	
+885
+NA
+Radeon R7 A10-7800	
+885
+NA
+Radeon HD 8650G + 7670M Dual	
+884
+NA
+GeForce 9800 GTX/9800 GTX+	
+883
+$89.99*
+GeForce 830M	
+882
+NA
+Radeon HD 7660G + HD 7730M Dual	
+882
+NA
+GRID K1	
+881
+$1,028.99
+Quadro K620M	
+880
+NA
+GeForce GTS 250	
+878
+$114.99*
+Radeon HD 8500M/8700M	
+875
+NA
+Radeon HD 3870 X2	
+874
+NA
+FirePro V3900	
+871
+$129.99*
+Radeon HD 8570D + HD 6570 Dual	
+868
+NA
+GeForce 840A	
+867
+NA
+Radeon R7 A8-7650K	
+867
+NA
+Radeon R5 PRO A8-9600B R5, 10 COMPUTE CORES 4C+6G	
+861
+NA
+Mobility Radeon HD 4850	
+860
+NA
+Radeon HD 8550G + HD 7600M Dual	
+855
+NA
+Radeon R7 A8-7500 Radeon R7, 10 Compute Cores 4C+6	
+853
+NA
+Radeon R7 A8-7670K	
+851
+NA
+Radeon R7 FX-9800P RADEON	
+848
+$499.36
+Radeon R7 FX-8800P	
+846
+NA
+Radeon R7 PRO A8-8650B	
+843
+NA
+GeForce GT 440	
+842
+$69.99*
+Radeon R5 PRO A10-8730B R5, 10 COMPUTE CORES 4C+6G	
+840
+NA
+Radeon R5 PRO A6-8570E R5, 6 COMPUTE CORES 2C+4G	
+839
+NA
+Quadro FX 3800	
+838
+$109.99*
+Radeon HD 8670D + R5 235 Dual	
+837
+NA
+Quadro K420	
+835
+$91.99
+GeForce 8800 GTS 512	
+834
+NA
+Radeon HD 7560D + 6570 Dual	
+833
+NA
+Intel HD 520	
+832
+NA
+Radeon HD 8650G + 8600/8700M Dual	
+832
+NA
+Radeon HD 7660G + 7600M Dual	
+832
+NA
+Intel HD 6000	
+828
+NA
+GeForce GT 730M	
+827
+NA
+Quadro K600	
+826
+$80.99
+Radeon HD 7640G N HD 7640G + HD 7600M N HD 7600M D	
+824
+NA
+GeForce GTS 240	
+823
+$64.99*
+Radeon R7 PRO A12-9800B	
+821
+NA
+Radeon HD 8650G + HD 7600M Dual	
+820
+NA
+Radeon HD 8550G + HD 8750M Dual	
+819
+NA
+Radeon R7 M265	
+818
+NA
+Radeon HD 7670M	
+813
+$629.99*
+Radeon HD 8550G + HD 8600/8700M Dual	
+813
+NA
+Radeon 520	
+812
+NA
+GeForce 940A	
+811
+NA
+Radeon R5 A10-9600P RADEON R5, 10 COMPUTE CORES 4C	
+809
+NA
+GeForce GTX 850A	
+803
+NA
+Radeon HD 8550G + 8600/8700M Dual	
+803
+NA
+Quadro FX 3800M	
+802
+NA
+Radeon HD 7660G	
+802
+NA
+GeForce 9800 GX2	
+800
+NA
+Radeon HD 8550G + 8750M Dual	
+796
+NA
+Radeon HD 4810	
+794
+NA
+Radeon HD 7650A	
+793
+$262.00*
+Quadro K1000M	
+793
+$149.90*
+Radeon HD 3850 X2	
+793
+NA
+GeForce 730A	
+790
+NA
+Radeon HD 8650G + 8750M Dual	
+787
+NA
+GeForce GT 640M LE	
+785
+$849.99*
+Radeon HD 8670D	
+784
+NA
+Radeon HD 8650G + HD 8750M Dual	
+783
+NA
+Radeon HD 7660D	
+783
+NA
+Radeon R7 PRO A12-8800B	
+783
+NA
+GeForce GT 740M	
+783
+NA
+GRID K180Q	
+778
+NA
+Intel HD 5200	
+777
+NA
+GeForce GT 340	
+776
+$52.99*
+Radeon HD 7660G + HD 7600M Dual	
+775
+NA
+NVS 5400M	
+775
+NA
+Radeon HD 7600M + 7600M Dual	
+773
+NA
+Radeon HD 8650G N HD 8650G + HD 8570M Dual	
+773
+NA
+Mobility Radeon HD 5000	
+773
+NA
+GeForce 9800 GTX	
+769
+NA
+GeForce 8800 Ultra	
+769
+NA
+Radeon R7 A10 Extreme Edition	
+768
+NA
+Mobility Radeon HD 5850	
+767
+NA
+Radeon R7 M340	
+765
+NA
+Radeon HD 8650G + HD 8600/8700M Dual	
+765
+NA
+NVS 510	
+765
+$234.99
+GeForce 8800 GTX	
+763
+NA
+Radeon R5 A10-9620P RADEON R5, 10 COMPUTE CORES 4C	
+761
+NA
+Radeon HD 6570	
+761
+$49.99*
+GeForce GT 140	
+758
+NA
+Quadro K610M	
+758
+$75.00*
+Radeon R5 420	
+757
+NA
+Radeon HD 7660G + 7700M Dual	
+757
+NA
+GeForce GTS 360M	
+757
+NA
+Intel UHD 610	
+757
+NA
+Radeon R5 M255	
+757
+NA
+Quadro 1100M	
+755
+NA
+GeForce 825M	
+755
+NA
+Radeon HD 8570D + HD 7000 Dual	
+753
+NA
+Radeon HD 7660G + HD 7700M Dual	
+752
+NA
+Quadro 1000M	
+751
+$99.95
+GeForce 8800 GT	
+749
+NA
+GeForce GT 630	
+746
+$99.21*
+Radeon HD 7660G + 7610M Dual	
+746
+NA
+Intel Iris 5100	
+746
+NA
+Radeon R7 M270	
+745
+NA
+Radeon R5 235 + HD 7560D Dual	
+744
+NA
+Radeon HD 7660G + 7670M Dual	
+744
+NA
+GeForce GT 530	
+744
+$49.00*
+Radeon HD 8650G + 7600M Dual	
+742
+NA
+Radeon HD 7670M + 7670M Dual	
+738
+NA
+Radeon 6600M	
+738
+NA
+Radeon R7 A12-9700P RADEON	
+737
+NA
+GeForce GTX 285M	
+735
+NA
+Radeon HD 7550M/7650M	
+732
+NA
+GeForce GT 730A	
+732
+NA
+GeForce 9600 GT	
+731
+$39.99*
+GeForce 920M	
+731
+NA
+GRID K140Q	
+728
+NA
+Radeon R7 A10 PRO-7800B	
+724
+NA
+Radeon HD 7660G N HD 7660G + HD 7600M N HD 7600M D	
+723
+NA
+Radeon HD 8650G + R5 M200 Dual	
+723
+NA
+Radeon HD 7650M	
+722
+NA
+Radeon HD 8550G	
+722
+NA
+GeForce GT 550M	
+721
+NA
+Radeon R7 A8 PRO-7600B	
+721
+NA
+Mobility Radeon HD 4870	
+720
+NA
+Radeon HD 7540D + 6570 Dual	
+720
+NA
+Radeon HD 3870	
+719
+$58.00*
+Radeon HD 6650M	
+719
+NA
+Radeon HD 8670D + HD 7000 Dual	
+719
+NA
+GeForce GT 720	
+718
+$54.99*
+Intel HD 615	
+718
+NA
+Radeon HD 8470D + 6450 Dual	
+717
+NA
+Radeon HD 8650G + HD 8570M Dual	
+716
+NA
+Mobility Radeon HD 5570	
+715
+NA
+Radeon HD 5570	
+713
+$189.99
+Intel HD 4600	
+711
+NA
+Radeon HD 7660G + HD 8670M Dual	
+711
+NA
+Intel HD 610	
+711
+NA
+Radeon R7 M360	
+711
+NA
+GeForce 9800 GT	
+709
+$103.99*
+Radeon HD 6550A	
+708
+NA
+Radeon HD 7660G + HD 7670M Dual	
+707
+NA
+Radeon HD 7640G + 7600M Dual	
+706
+NA
+Radeon HD 7660G N HD 7660G + HD 7670M Dual	
+705
+NA
+Radeon HD 7640G + HD 7600M Dual	
+702
+NA
+GRID K160Q	
+701
+NA
+TRINITY DEVASTATOR MOBILE	
+699
+NA
+Radeon HD 7570M/HD 7670M	
+699
+NA
+GeForce GT 820M	
+698
+NA
+Radeon HD 7640G + HD 8570M Dual	
+697
+NA
+Quadro 600	
+697
+$49.99
+GeForce GT 635M	
+696
+NA
+Radeon R5 PRO A6-9500B R5, 6 COMPUTE CORES 2C+4G	
+693
+NA
+Radeon R6 A10-8700P	
+692
+NA
+GeForce 820A	
+691
+NA
+Radeon HD 7640G + 7700M Dual	
+691
+NA
+Radeon R5 PRO A6-8530B R5, 6 COMPUTE CORES 2C+4G	
+690
+NA
+Radeon HD 7640G + 8600/8700M Dual	
+689
+NA
+GeForce GT 630M	
+686
+NA
+Radeon HD 8650G + R5 M230 Dual	
+686
+NA
+Radeon HD 8550D	
+685
+NA
+Radeon HD 6630M	
+685
+NA
+Quadro FX 5600	
+682
+$179.99
+Radeon HD 8570D	
+681
+NA
+Radeon HD 8650G N HD 8650G + HD 8600M N HD 8600M D	
+680
+NA
+Radeon HD 7640G N HD 7640G + HD 7670M Dual	
+680
+NA
+GeForce GTS 160M	
+679
+NA
+GeForce GT 710	
+678
+$35.99
+Radeon HD 8610G + R5 M200 Dual	
+676
+NA
+Mobility Radeon HD 5730	
+675
+NA
+Radeon R7 M260	
+673
+$799.00*
+Quadro 500M	
+673
+$275.14*
+GeForce GT 735M	
+669
+NA
+Intel HD P4600/P4700	
+669
+NA
+Radeon HD 8550G + R5 M230 Dual	
+668
+NA
+GeForce GT 435M	
+667
+NA
+Radeon HD 7640G + HD 8500M N HD 8500M Dual	
+666
+NA
+Quadro FX 4700 X2	
+665
+NA
+Radeon HD 8550G + 8690M Dual	
+664
+NA
+Intel UHD 615	
+663
+NA
+Intel HD 5600	
+663
+NA
+Quadro FX 2800M	
+662
+$49.95*
+GeForce GT 720A	
+662
+NA
+Radeon HD 7560D	
+661
+NA
+GeForce GT 430	
+661
+$35.99*
+FireGL V7700	
+660
+$174.99*
+Radeon HD 7640G + HD 7670M Dual	
+660
+NA
+Radeon R5 240	
+660
+$51.99
+FirePro M7740	
+657
+NA
+NVS 5200M	
+657
+NA
+Radeon HD 2900 XT	
+657
+NA
+Radeon HD 7640G + 8750M Dual	
+655
+NA
+Radeon HD 8650G + 8570M Dual	
+654
+NA
+Professional HD Driver	
+654
+NA
+GeForce GT 240	
+651
+$37.99*
+Radeon HD 7520G + HD 8750M Dual	
+651
+NA
+SUMO 9640	
+650
+NA
+GeForce GT 540M	
+649
+NA
+Radeon HD 6670 + 6670 Dual	
+647
+NA
+GeForce 9800M GTS	
+646
+NA
+Radeon HD 6550D	
+646
+NA
+Radeon HD 8610G + HD 8500M Dual	
+646
+NA
+Radeon HD 7640G + 7670M Dual	
+645
+NA
+Intel HD 515	
+644
+NA
+Radeon R6	
+643
+NA
+Radeon R5 M430	
+642
+NA
+GeForce 810A	
+638
+NA
+Radeon HD 8650G + 8670M Dual	
+638
+NA
+Radeon HD 7640G + 7400M Dual	
+637
+NA
+Radeon HD 8450G + 8750M Dual	
+637
+NA
+Radeon R5 330	
+637
+$369.99*
+GeForce 9800 S	
+636
+NA
+Matrox C420 LP PCIe x16	
+635
+NA
+Radeon HD 8650G + HD 7670M Dual	
+634
+NA
+Quadro FX 3700M	
+634
+$925.00*
+Radeon HD 7660D + HD 7000 Dual	
+634
+NA
+Quadro FX 3700	
+631
+$119.99
+Radeon HD 7610M	
+631
+NA
+Radeon HD 7660G + 7470M Dual	
+631
+NA
+Radeon HD 2900 PRO	
+628
+NA
+Radeon HD 7640G + 7500/7600 Dual	
+627
+NA
+Radeon HD 8650G + 8500M Dual	
+627
+NA
+GeForce GT 425M	
+625
+NA
+Quadro K510M	
+624
+NA
+Radeon HD 7520G + HD 8600/8700M Dual	
+624
+NA
+Radeon HD 8570 + 8670D Dual	
+620
+NA
+GeForce GTX 280M	
+620
+NA
+Intel HD 510	
+620
+NA
+Radeon HD 8550G + R5 M200 Dual	
+619
+NA
+Radeon HD 8550G + 8600M Dual	
+618
+NA
+Radeon HD 7500G + 7500M/7600M Dual	
+617
+NA
+GeForce 820M	
+616
+NA
+FireGL V7600	
+616
+NA
+Radeon HD 7640G + HD 7400M Dual	
+615
+NA
+Radeon HD 7640G	
+615
+NA
+Radeon HD 8650G + 8600M Dual	
+613
+NA
+FirePro M2000	
+613
+NA
+Radeon HD 7570M	
+611
+NA
+7900 MOD - Radeon HD 6520G	
+610
+NA
+Radeon HD 8610G + 8500M Dual	
+610
+NA
+Radeon R5 M315	
+610
+NA
+Radeon HD 7640G + HD 8500M Dual	
+607
+NA
+GeForce 8800 GTS	
+606
+NA
+Intel HD P4600	
+605
+NA
+Radeon R6 PRO A8-8600B R6, 10 Compute Cores 4C+6G	
+605
+NA
+Quadro FX 4600	
+604
+$135.24
+Radeon HD 8550G + 8500M Dual	
+603
+NA
+GeForce GT 525M	
+601
+NA
+Radeon HD 8610G + 8670M Dual	
+600
+NA
+Radeon HD 7520G + HD 7600M Dual	
+599
+NA
+Radeon HD 7640G + 7470M Dual	
+599
+NA
+Intel HD 5000	
+599
+NA
+Radeon R5 M320	
+598
+NA
+Radeon HD 8650G + HD 8600M Dual	
+598
+NA
+Radeon R5 M330	
+598
+NA
+Radeon HD 8510G + 8500M Dual	
+596
+NA
+Radeon HD 8550G + HD 8600M Dual	
+594
+NA
+Radeon HD 7520G + 7600M Dual	
+591
+NA
+GeForce GTX 260M	
+590
+NA
+Radeon HD 7640G + HD 7700M Dual	
+589
+NA
+Radeon HD 8650G + HD 8670M Dual	
+589
+NA
+Radeon HD 8610G + 8600M Dual	
+589
+NA
+Radeon HD 7520G + 7610M Dual	
+588
+NA
+Radeon HD 7660G + 7400M Dual	
+588
+NA
+Radeon HD 7660G + 8670M Dual	
+588
+NA
+Radeon HD 7640G + HD 8600/8700M Dual	
+587
+NA
+Intel HD 5500	
+587
+NA
+Radeon HD 7640G + 8500M Dual	
+586
+NA
+Quadro FX 1800	
+582
+$186.29
+Radeon HD 8610G + HD 8600M Dual	
+580
+NA
+Radeon HD 8550G + 8670M Dual	
+579
+NA
+Radeon HD 8610G + HD 8670M Dual	
+578
+NA
+Radeon HD 7620G + 8670M Dual	
+577
+NA
+Intel Skylake HD DT GT2	
+577
+NA
+Radeon R5 M230	
+575
+NA
+Radeon R6 + R7 M265DX Dual	
+571
+NA
+GeForce GT 620M	
+569
+NA
+GeForce GTS 250M	
+568
+NA
+GeForce 710M	
+567
+NA

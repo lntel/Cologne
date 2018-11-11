@@ -58,13 +58,15 @@ namespace Kryptos
             label5.Text = " " + hardware[3].ToString() + "GB " + memory["Manufacturer"] + " " + RamType;
             label6.Text = " " + os["Name"].ToString().Split('|')[0];
 
-            //Appraise price = new Appraise(hardware);
+            Appraise price = new Appraise(hardware);
 
             //decimal total = price.Estimate();
 
             //label4.Text = "$" + total.ToString();
 
             //MessageBox.Show(price.diag);
+
+            MessageBox.Show(price.Calculate()[2].Content);
         }
 
         public string RamType
