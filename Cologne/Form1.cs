@@ -13,8 +13,9 @@ using MaterialSkin;
 using MaterialSkin.Controls;
 using MetroFramework;
 using MetroFramework.Forms;
+using Microsoft.VisualBasic;
 
-namespace Kryptos
+namespace Cologne
 {
     public partial class Form1 : MetroForm
     {
@@ -58,15 +59,24 @@ namespace Kryptos
             label5.Text = " " + hardware[3].ToString() + "GB " + memory["Manufacturer"] + " " + RamType;
             label6.Text = " " + os["Name"].ToString().Split('|')[0];
 
+            Change();
+        }
+
+        public void Change()
+        {
             Appraise price = new Appraise(hardware);
 
-            //decimal total = price.Estimate();
+            decimal call = price.Depreciate();
 
-            //label4.Text = "$" + total.ToString();
+            decimal actual = Math.Round(price.actual, 2);
+            decimal dep = Math.Round(call, 2);
 
-            //MessageBox.Show(price.diag);
+            if (dep < actual) label8.ForeColor = Color.Red;
 
-            MessageBox.Show(price.Calculate()[2].Content);
+            label7.ForeColor = Color.Green;
+
+            label8.Text = "Depreciated Value: $" + dep.ToString();
+            label7.Text = "Actual Value: $" + actual.ToString();
         }
 
         public string RamType
@@ -126,6 +136,19 @@ namespace Kryptos
             }
 
             return outValue;
+        }
+
+        private void materialRaisedButton1_Click(object sender, EventArgs e)
+        {
+            using (Collect frm = new Collect())
+            {
+                frm.ShowDialog();
+            }
+        }
+
+        private void materialRaisedButton2_Click(object sender, EventArgs e)
+        {
+            Change();
         }
     }
 }

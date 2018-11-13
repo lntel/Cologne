@@ -9,7 +9,7 @@ using Newtonsoft.Json;
 using System.IO;
 using System.Collections;
 
-namespace Kryptos
+namespace Cologne
 {
     public class Device
     {
@@ -29,6 +29,8 @@ namespace Kryptos
         private string motherboard;
         private string gpu;
         private string memory;
+
+        public decimal actual;
         private enum Component
         {
             processor,
@@ -52,12 +54,13 @@ namespace Kryptos
             public string Json { get; set; }
             public string Url { get; set; }
             public string Content { get; set; }
+            public Item Data { get; set; }
         }
 
-        public List<Config> Calculate()
+        public decimal[] Calculate()
         {
             string[] content = new string[3];
-            string output = null;
+            decimal[] prices = { };
             int index = 0;
 
             List<Config> configs = new List<Config>();
@@ -106,11 +109,73 @@ namespace Kryptos
                 StreamReader sr = new StreamReader(str);
 
                 config.Content = sr.ReadToEnd();
+                config.Data = JsonConvert.DeserializeObject<Item>(config.Content);
+
+                prices = new decimal[3];
 
                 configs.Add(config);
             }
 
-            return configs;
+            int x = 0;
+
+            for(index = 0; index < 3; index++)
+            {
+                if(configs[index].Data.data[x].Price != 0)
+                {
+                    prices[index] = configs[index].Data.data[x].Price;
+                } else
+                {
+                    while(configs[index].Data.data[x].Price == 0)
+                    {
+                        x++;
+                    }
+
+                    prices[index] = configs[index].Data.data[x].Price;
+                }
+            }
+
+            actual = prices.Sum();
+
+            return prices;
+        }
+
+        public decimal Depreciate()
+        {
+            int lifespan = 0;
+            decimal salvage = 0;
+
+            string[] tmp;
+
+            Configuration config = new Configuration();
+
+            tmp = config.Read();
+
+            decimal[] prices = Calculate();
+
+            for (int i = 0; i < 3; i++)
+            {
+                switch (i)
+                {
+                    case 0:
+                        lifespan = 40;
+                        salvage = 90;
+                        break;
+                    case 1:
+                        lifespan = 5;
+                        salvage = 60;
+                        break;
+                    case 2:
+                        lifespan = 7;
+                        salvage = 30;
+                        break;
+                }
+
+                decimal yearly = ((prices[i] - salvage) / lifespan);
+
+                prices[i] = (prices[i] - (Convert.ToInt16(tmp[i]) * yearly));
+            }
+
+            return prices.Sum();
         }
 
         public decimal Estimate()

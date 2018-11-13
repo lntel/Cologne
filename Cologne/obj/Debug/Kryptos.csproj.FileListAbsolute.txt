@@ -18,7 +18,6 @@ C:\Users\jasper\Documents\GitHub\Cologne\Cologne\bin\Debug\Cologne.pdb
 C:\Users\jasper\Documents\GitHub\Cologne\Cologne\bin\Debug\MaterialSkin.dll
 C:\Users\jasper\Documents\GitHub\Cologne\Cologne\bin\Debug\Newtonsoft.Json.dll
 C:\Users\jasper\Documents\GitHub\Cologne\Cologne\bin\Debug\Newtonsoft.Json.xml
-C:\Users\jasper\Documents\GitHub\Cologne\Cologne\obj\Debug\Kryptos.Form1.resources
 C:\Users\jasper\Documents\GitHub\Cologne\Cologne\obj\Debug\Cologne.Properties.Resources.resources
 C:\Users\jasper\Documents\GitHub\Cologne\Cologne\obj\Debug\Kryptos.csproj.GenerateResource.Cache
 C:\Users\jasper\Documents\GitHub\Cologne\Cologne\bin\Debug\MetroFramework.Design.dll
@@ -41,3 +40,5 @@ C:\Users\Anonymous\Documents\GitHub\Cologne\Cologne\obj\Debug\Kryptos.csproj.Gen
 C:\Users\Anonymous\Documents\GitHub\Cologne\Cologne\obj\Debug\Kryptos.csproj.CoreCompileInputs.cache
 C:\Users\Anonymous\Documents\GitHub\Cologne\Cologne\obj\Debug\Cologne.exe
 C:\Users\Anonymous\Documents\GitHub\Cologne\Cologne\obj\Debug\Cologne.pdb
+C:\Users\jasper\Documents\GitHub\Cologne\Cologne\obj\Debug\Cologne.Collect.resources
+C:\Users\jasper\Documents\GitHub\Cologne\Cologne\obj\Debug\Cologne.Form1.resources
