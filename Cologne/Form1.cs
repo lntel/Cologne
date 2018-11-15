@@ -14,6 +14,8 @@ using MaterialSkin.Controls;
 using MetroFramework;
 using MetroFramework.Forms;
 using Microsoft.VisualBasic;
+using System.IO;
+using System.Threading;
 
 namespace Cologne
 {
@@ -59,7 +61,18 @@ namespace Cologne
             label5.Text = " " + hardware[3].ToString() + "GB " + memory["Manufacturer"] + " " + RamType;
             label6.Text = " " + os["Name"].ToString().Split('|')[0];
 
-            Change();
+            new Thread(() =>
+            {
+                Change();
+            }).Start();
+
+            Temperature temp = new Temperature();
+
+            decimal[] temps = temp.Update();
+
+            cpu_temp.Text = temps[0].ToString();
+            gpu_temp.Text = temps[1].ToString();
+            mem_temp.Text = temps[2].ToString();
         }
 
         public void Change()
@@ -71,12 +84,15 @@ namespace Cologne
             decimal actual = Math.Round(price.actual, 2);
             decimal dep = Math.Round(call, 2);
 
-            if (dep < actual) label8.ForeColor = Color.Red;
+            this.Invoke((MethodInvoker)delegate ()
+            {
+                if (dep < actual) label8.ForeColor = Color.Red;
 
-            label7.ForeColor = Color.Green;
+                label7.ForeColor = Color.Green;
 
-            label8.Text = "Depreciated Value: $" + dep.ToString();
-            label7.Text = "Actual Value: $" + actual.ToString();
+                label8.Text = "Depreciated Value: $" + dep.ToString();
+                label7.Text = "Actual Value: $" + actual.ToString();
+            });
         }
 
         public string RamType
@@ -138,7 +154,7 @@ namespace Cologne
             return outValue;
         }
 
-        private void materialRaisedButton1_Click(object sender, EventArgs e)
+        private void metroButton1_Click(object sender, EventArgs e)
         {
             using (Collect frm = new Collect())
             {
@@ -146,9 +162,12 @@ namespace Cologne
             }
         }
 
-        private void materialRaisedButton2_Click(object sender, EventArgs e)
+        private void metroButton2_Click(object sender, EventArgs e)
         {
-            Change();
+            new Thread(() =>
+            {
+                Change();
+            }).Start();
         }
     }
 }

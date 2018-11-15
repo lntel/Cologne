@@ -23,12 +23,14 @@ namespace Cologne
     }
     class Appraise
     {
-        private string API = "http://localhost/v1/";
+        private string API = "https://fivestack.000webhostapp.com/v1/";
 
         private string processor;
         private string motherboard;
         private string gpu;
         private string memory;
+
+        public List<Config> diag = new List<Config>();
 
         public decimal actual;
         private enum Component
@@ -38,8 +40,6 @@ namespace Cologne
             graphics,
             hardrive
         }
-
-        public string diag;
 
         public Appraise(List<string> hardware)
         {
@@ -92,8 +92,8 @@ namespace Cologne
                 HttpWebRequest request = (HttpWebRequest)WebRequest.Create(config.Url);
                 request.Accept = "application/json";
                 request.ContentType = "application/json";
+                request.UserAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10240";
                 request.Method = "POST";
-
                 ASCIIEncoding encoding = new ASCIIEncoding();
 
                 Byte[] bytes = encoding.GetBytes(config.Json);
@@ -111,27 +111,33 @@ namespace Cologne
                 config.Content = sr.ReadToEnd();
                 config.Data = JsonConvert.DeserializeObject<Item>(config.Content);
 
-                prices = new decimal[3];
+                prices = new decimal[10];
 
                 configs.Add(config);
+
+                //diag.Add(config);
             }
 
             int x = 0;
 
-            for(index = 0; index < 3; index++)
+            for(index = 0; index < configs.Count - 1; index++)
             {
-                if(configs[index].Data.data[x].Price != 0)
-                {
-                    prices[index] = configs[index].Data.data[x].Price;
-                } else
-                {
-                    while(configs[index].Data.data[x].Price == 0)
+                //if(configs.Count < index)
+                //{
+                    if (configs[index].Data.data[x].Price != 0)
                     {
-                        x++;
+                        prices[index] = configs[index].Data.data[x].Price;
                     }
+                    else
+                    {
+                        while (configs[index].Data.data[x].Price == 0)
+                        {
+                            x++;
+                        }
 
-                    prices[index] = configs[index].Data.data[x].Price;
-                }
+                        prices[index] = configs[index].Data.data[x].Price;
+                    }
+                //}
             }
 
             actual = prices.Sum();
@@ -175,81 +181,13 @@ namespace Cologne
                 prices[i] = (prices[i] - (Convert.ToInt16(tmp[i]) * yearly));
             }
 
-            return prices.Sum();
-        }
-
-        public decimal Estimate()
-        {
-            string proc_content = null;
-            string gpu_content = null;
-            string mem_content = null;
-
-            int mem_index = 0;
-
-            string content = null;
-            string[] enums = { "processor", "graphics", "memory" };
-            foreach(string x in enums)
+            if(prices.Sum() < 0)
             {
-                string json = null;
-                HttpWebRequest request = (HttpWebRequest)WebRequest.Create(API + x + "/search.php");
-                request.ContentType = "application/json";
-                request.Method = "POST";
-
-                switch (x)
-                {
-                    case "processor":
-                        json = "{ \"key\": \"" + processor + "\" }";
-                        break;
-                    case "graphics":
-                        json = "{ \"key\": \"" + gpu + "\" }";
-                        break;
-                    case "memory":
-                        json = "{ \"key\": \"" + memory + "\" }";
-                        break;
-                }
-
-                diag = json;
-
-                ASCIIEncoding encoding = new ASCIIEncoding();
-
-                Byte[] bytes = encoding.GetBytes(json);
-
-                Stream str = request.GetRequestStream();
-                str.Write(bytes, 0, bytes.Length);
-                str.Close();
-
-                WebResponse response = request.GetResponse();
-
-                str = response.GetResponseStream();
-                StreamReader sr = new StreamReader(str);
-                content = sr.ReadToEnd();
-
-                switch (x)
-                {
-                    case "processor":
-                        proc_content = content;
-                        break;
-                    case "graphics":
-                        gpu_content = content;
-                        break;
-                    case "memory":
-                        mem_content = content;
-                        break;
-                }
-            }
-
-            Item cpu = JsonConvert.DeserializeObject<Item>(proc_content);
-            Item gpu_json = JsonConvert.DeserializeObject<Item>(gpu_content);
-            Item mem = JsonConvert.DeserializeObject<Item>(mem_content);
-
-            if(mem.data[0].Price == 0)
+                return 0;
+            } else
             {
-                mem_index++;
+                return prices.Sum();
             }
-
-            decimal total = decimal.Add(decimal.Add(cpu.data[0].Price, gpu_json.data[0].Price), mem.data[mem_index].Price);
-
-            return total;
         }
     }
 }

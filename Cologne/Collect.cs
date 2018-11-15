@@ -34,6 +34,8 @@ namespace Cologne
                 conf.Update();
 
                 MetroMessageBox.Show(this, "Successfully saved", "Success", MessageBoxButtons.OK, MessageBoxIcon.Question);
+
+                this.Close();
             } else
             {
                 MetroMessageBox.Show(this, "Invalid parameters", "Failed", MessageBoxButtons.OK, MessageBoxIcon.Error);

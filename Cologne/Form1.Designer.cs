@@ -40,11 +40,15 @@
             this.label5 = new System.Windows.Forms.Label();
             this.pictureBox5 = new System.Windows.Forms.PictureBox();
             this.label6 = new System.Windows.Forms.Label();
-            this.materialRaisedButton1 = new MaterialSkin.Controls.MaterialRaisedButton();
             this.label7 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
             this.materialDivider1 = new MaterialSkin.Controls.MaterialDivider();
-            this.materialRaisedButton2 = new MaterialSkin.Controls.MaterialRaisedButton();
+            this.cpu_temp = new System.Windows.Forms.Label();
+            this.gpu_temp = new System.Windows.Forms.Label();
+            this.mobo_temp = new System.Windows.Forms.Label();
+            this.mem_temp = new System.Windows.Forms.Label();
+            this.metroButton1 = new MetroFramework.Controls.MetroButton();
+            this.metroButton2 = new MetroFramework.Controls.MetroButton();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
@@ -58,7 +62,7 @@
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Arial", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(53, 96);
+            this.label1.Location = new System.Drawing.Point(91, 90);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(0, 17);
             this.label1.TabIndex = 0;
@@ -69,7 +73,7 @@
             this.label2.BackColor = System.Drawing.Color.Transparent;
             this.label2.Font = new System.Drawing.Font("Arial", 11F);
             this.label2.ForeColor = System.Drawing.Color.White;
-            this.label2.Location = new System.Drawing.Point(53, 133);
+            this.label2.Location = new System.Drawing.Point(91, 127);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(0, 17);
             this.label2.TabIndex = 1;
@@ -80,7 +84,7 @@
             this.label3.BackColor = System.Drawing.Color.Transparent;
             this.label3.Font = new System.Drawing.Font("Arial", 11F);
             this.label3.ForeColor = System.Drawing.Color.White;
-            this.label3.Location = new System.Drawing.Point(53, 171);
+            this.label3.Location = new System.Drawing.Point(91, 165);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(0, 17);
             this.label3.TabIndex = 2;
@@ -98,7 +102,7 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(15, 87);
+            this.pictureBox1.Location = new System.Drawing.Point(15, 81);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(32, 32);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -108,7 +112,7 @@
             // pictureBox2
             // 
             this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(15, 125);
+            this.pictureBox2.Location = new System.Drawing.Point(15, 119);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(32, 32);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -118,7 +122,7 @@
             // pictureBox3
             // 
             this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
-            this.pictureBox3.Location = new System.Drawing.Point(15, 163);
+            this.pictureBox3.Location = new System.Drawing.Point(15, 157);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(32, 32);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -128,7 +132,7 @@
             // pictureBox4
             // 
             this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
-            this.pictureBox4.Location = new System.Drawing.Point(15, 201);
+            this.pictureBox4.Location = new System.Drawing.Point(15, 195);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(32, 32);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -141,7 +145,7 @@
             this.label5.BackColor = System.Drawing.Color.Transparent;
             this.label5.Font = new System.Drawing.Font("Arial", 11F);
             this.label5.ForeColor = System.Drawing.Color.White;
-            this.label5.Location = new System.Drawing.Point(53, 209);
+            this.label5.Location = new System.Drawing.Point(91, 203);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(0, 17);
             this.label5.TabIndex = 8;
@@ -149,7 +153,7 @@
             // pictureBox5
             // 
             this.pictureBox5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox5.Image")));
-            this.pictureBox5.Location = new System.Drawing.Point(15, 239);
+            this.pictureBox5.Location = new System.Drawing.Point(15, 233);
             this.pictureBox5.Name = "pictureBox5";
             this.pictureBox5.Size = new System.Drawing.Size(32, 32);
             this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -162,24 +166,10 @@
             this.label6.BackColor = System.Drawing.Color.Transparent;
             this.label6.Font = new System.Drawing.Font("Arial", 11F);
             this.label6.ForeColor = System.Drawing.Color.White;
-            this.label6.Location = new System.Drawing.Point(53, 247);
+            this.label6.Location = new System.Drawing.Point(91, 241);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(0, 17);
             this.label6.TabIndex = 10;
-            // 
-            // materialRaisedButton1
-            // 
-            this.materialRaisedButton1.BackColor = System.Drawing.Color.Yellow;
-            this.materialRaisedButton1.Depth = 0;
-            this.materialRaisedButton1.Location = new System.Drawing.Point(387, 87);
-            this.materialRaisedButton1.MouseState = MaterialSkin.MouseState.HOVER;
-            this.materialRaisedButton1.Name = "materialRaisedButton1";
-            this.materialRaisedButton1.Primary = true;
-            this.materialRaisedButton1.Size = new System.Drawing.Size(90, 32);
-            this.materialRaisedButton1.TabIndex = 11;
-            this.materialRaisedButton1.Text = "Add Years";
-            this.materialRaisedButton1.UseVisualStyleBackColor = false;
-            this.materialRaisedButton1.Click += new System.EventHandler(this.materialRaisedButton1_Click);
             // 
             // label7
             // 
@@ -188,9 +178,9 @@
             this.label7.ForeColor = System.Drawing.Color.White;
             this.label7.Location = new System.Drawing.Point(11, 314);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(115, 20);
+            this.label7.Size = new System.Drawing.Size(198, 20);
             this.label7.TabIndex = 12;
-            this.label7.Text = "Actual Value: $";
+            this.label7.Text = "Actual Value: Calculating...";
             // 
             // label8
             // 
@@ -199,9 +189,9 @@
             this.label8.ForeColor = System.Drawing.Color.White;
             this.label8.Location = new System.Drawing.Point(11, 334);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(153, 20);
+            this.label8.Size = new System.Drawing.Size(236, 20);
             this.label8.TabIndex = 13;
-            this.label8.Text = "Depreciated Value: $";
+            this.label8.Text = "Depreciated Value: Calculating...";
             // 
             // materialDivider1
             // 
@@ -210,34 +200,96 @@
             this.materialDivider1.Location = new System.Drawing.Point(-8, 281);
             this.materialDivider1.MouseState = MaterialSkin.MouseState.HOVER;
             this.materialDivider1.Name = "materialDivider1";
-            this.materialDivider1.Size = new System.Drawing.Size(520, 23);
+            this.materialDivider1.Size = new System.Drawing.Size(589, 23);
             this.materialDivider1.TabIndex = 14;
             this.materialDivider1.Text = "materialDivider1";
             // 
-            // materialRaisedButton2
+            // cpu_temp
             // 
-            this.materialRaisedButton2.BackColor = System.Drawing.Color.Yellow;
-            this.materialRaisedButton2.Depth = 0;
-            this.materialRaisedButton2.Location = new System.Drawing.Point(348, 314);
-            this.materialRaisedButton2.MouseState = MaterialSkin.MouseState.HOVER;
-            this.materialRaisedButton2.Name = "materialRaisedButton2";
-            this.materialRaisedButton2.Primary = true;
-            this.materialRaisedButton2.Size = new System.Drawing.Size(129, 32);
-            this.materialRaisedButton2.TabIndex = 15;
-            this.materialRaisedButton2.Text = "Update Value";
-            this.materialRaisedButton2.UseVisualStyleBackColor = false;
-            this.materialRaisedButton2.Click += new System.EventHandler(this.materialRaisedButton2_Click);
+            this.cpu_temp.AutoSize = true;
+            this.cpu_temp.ForeColor = System.Drawing.Color.Lime;
+            this.cpu_temp.Location = new System.Drawing.Point(53, 92);
+            this.cpu_temp.Name = "cpu_temp";
+            this.cpu_temp.Size = new System.Drawing.Size(30, 13);
+            this.cpu_temp.TabIndex = 16;
+            this.cpu_temp.Text = "30°C";
+            // 
+            // gpu_temp
+            // 
+            this.gpu_temp.AutoSize = true;
+            this.gpu_temp.ForeColor = System.Drawing.Color.Lime;
+            this.gpu_temp.Location = new System.Drawing.Point(53, 130);
+            this.gpu_temp.Name = "gpu_temp";
+            this.gpu_temp.Size = new System.Drawing.Size(30, 13);
+            this.gpu_temp.TabIndex = 17;
+            this.gpu_temp.Text = "30°C";
+            // 
+            // mobo_temp
+            // 
+            this.mobo_temp.AutoSize = true;
+            this.mobo_temp.ForeColor = System.Drawing.Color.Lime;
+            this.mobo_temp.Location = new System.Drawing.Point(53, 168);
+            this.mobo_temp.Name = "mobo_temp";
+            this.mobo_temp.Size = new System.Drawing.Size(30, 13);
+            this.mobo_temp.TabIndex = 18;
+            this.mobo_temp.Text = "30°C";
+            // 
+            // mem_temp
+            // 
+            this.mem_temp.AutoSize = true;
+            this.mem_temp.ForeColor = System.Drawing.Color.Lime;
+            this.mem_temp.Location = new System.Drawing.Point(53, 206);
+            this.mem_temp.Name = "mem_temp";
+            this.mem_temp.Size = new System.Drawing.Size(30, 13);
+            this.mem_temp.TabIndex = 19;
+            this.mem_temp.Text = "30°C";
+            // 
+            // metroButton1
+            // 
+            this.metroButton1.BackColor = System.Drawing.Color.DeepSkyBlue;
+            this.metroButton1.DisplayFocus = true;
+            this.metroButton1.Highlight = true;
+            this.metroButton1.Location = new System.Drawing.Point(436, 78);
+            this.metroButton1.Name = "metroButton1";
+            this.metroButton1.Size = new System.Drawing.Size(96, 37);
+            this.metroButton1.Style = MetroFramework.MetroColorStyle.Blue;
+            this.metroButton1.TabIndex = 20;
+            this.metroButton1.Text = "Add Years";
+            this.metroButton1.Theme = MetroFramework.MetroThemeStyle.Dark;
+            this.metroButton1.UseSelectable = true;
+            this.metroButton1.UseStyleColors = true;
+            this.metroButton1.Click += new System.EventHandler(this.metroButton1_Click);
+            // 
+            // metroButton2
+            // 
+            this.metroButton2.BackColor = System.Drawing.Color.DeepSkyBlue;
+            this.metroButton2.DisplayFocus = true;
+            this.metroButton2.Highlight = true;
+            this.metroButton2.Location = new System.Drawing.Point(450, 315);
+            this.metroButton2.Name = "metroButton2";
+            this.metroButton2.Size = new System.Drawing.Size(96, 37);
+            this.metroButton2.Style = MetroFramework.MetroColorStyle.Blue;
+            this.metroButton2.TabIndex = 21;
+            this.metroButton2.Text = "Update";
+            this.metroButton2.Theme = MetroFramework.MetroThemeStyle.Dark;
+            this.metroButton2.UseSelectable = true;
+            this.metroButton2.UseStyleColors = true;
+            this.metroButton2.Click += new System.EventHandler(this.metroButton2_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(500, 364);
-            this.Controls.Add(this.materialRaisedButton2);
+            this.ClientSize = new System.Drawing.Size(569, 364);
+            this.Controls.Add(this.metroButton2);
+            this.Controls.Add(this.metroButton1);
+            this.Controls.Add(this.mem_temp);
+            this.Controls.Add(this.mobo_temp);
+            this.Controls.Add(this.gpu_temp);
+            this.Controls.Add(this.cpu_temp);
             this.Controls.Add(this.materialDivider1);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.label7);
-            this.Controls.Add(this.materialRaisedButton1);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.pictureBox5);
             this.Controls.Add(this.label5);
@@ -249,12 +301,12 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Form1";
             this.Resizable = false;
             this.ShadowType = MetroFramework.Forms.MetroFormShadowType.DropShadow;
-            this.Style = MetroFramework.MetroColorStyle.Red;
             this.Text = "Cologne";
             this.Theme = MetroFramework.MetroThemeStyle.Dark;
             this.Load += new System.EventHandler(this.Form1_Load);
@@ -281,11 +333,15 @@
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.PictureBox pictureBox5;
         private System.Windows.Forms.Label label6;
-        private MaterialSkin.Controls.MaterialRaisedButton materialRaisedButton1;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label8;
         private MaterialSkin.Controls.MaterialDivider materialDivider1;
-        private MaterialSkin.Controls.MaterialRaisedButton materialRaisedButton2;
+        private System.Windows.Forms.Label cpu_temp;
+        private System.Windows.Forms.Label gpu_temp;
+        private System.Windows.Forms.Label mobo_temp;
+        private System.Windows.Forms.Label mem_temp;
+        private MetroFramework.Controls.MetroButton metroButton1;
+        private MetroFramework.Controls.MetroButton metroButton2;
     }
 }
 

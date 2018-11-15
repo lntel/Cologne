@@ -7,8 +7,15 @@ C:\Users\jasper\Documents\GitHub\Cologne\Cologne\bin\Release\MetroFramework.dll
 C:\Users\jasper\Documents\GitHub\Cologne\Cologne\bin\Release\MetroFramework.Fonts.dll
 C:\Users\jasper\Documents\GitHub\Cologne\Cologne\bin\Release\Newtonsoft.Json.dll
 C:\Users\jasper\Documents\GitHub\Cologne\Cologne\bin\Release\Newtonsoft.Json.xml
-C:\Users\jasper\Documents\GitHub\Cologne\Cologne\obj\Release\Kryptos.Form1.resources
 C:\Users\jasper\Documents\GitHub\Cologne\Cologne\obj\Release\Cologne.Properties.Resources.resources
 C:\Users\jasper\Documents\GitHub\Cologne\Cologne\obj\Release\Kryptos.csproj.GenerateResource.Cache
 C:\Users\jasper\Documents\GitHub\Cologne\Cologne\obj\Release\Cologne.exe
 C:\Users\jasper\Documents\GitHub\Cologne\Cologne\obj\Release\Cologne.pdb
+C:\Users\jasper\Documents\GitHub\Cologne\Cologne\bin\Release\Cologne.exe.manifest
+C:\Users\jasper\Documents\GitHub\Cologne\Cologne\bin\Release\Cologne.application
+C:\Users\jasper\Documents\GitHub\Cologne\Cologne\obj\Release\Cologne.Collect.resources
+C:\Users\jasper\Documents\GitHub\Cologne\Cologne\obj\Release\Cologne.Form1.resources
+C:\Users\jasper\Documents\GitHub\Cologne\Cologne\obj\Release\Cologne.TrustInfo.xml
+C:\Users\jasper\Documents\GitHub\Cologne\Cologne\obj\Release\Cologne.exe.manifest
+C:\Users\jasper\Documents\GitHub\Cologne\Cologne\obj\Release\Cologne.application
+C:\Users\jasper\Documents\GitHub\Cologne\Cologne\obj\Release\Kryptos.csprojResolveAssemblyReference.cache
